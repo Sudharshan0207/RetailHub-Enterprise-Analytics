@@ -67,13 +67,66 @@ def generate_categories_data():
     ]
 
     
-    df1 = pd.DataFrame(
+    df = pd.DataFrame(
         CategoriesData
         , columns=['CategoryName', 'CategoryDescription']
         )
 
-    df1.to_csv('Dataset/CategoriesData.csv', index=False)
+    df.to_csv('Dataset/CategoriesData.csv', index=False)
 
     print("Categories Data Generated and Saved to CategoriesData.csv")
 
-    return df1
+    return df
+
+
+def generate_products_data():
+
+    ProductsData=[]
+
+    Product_Id=1
+
+    Category_names=['Electronics', 'Fashion', 'Home & Kitchen', 'Sports', 'Beauty', 'Grocery', 'Books', 'Toys', 'Furniture', 'Automotive', 'Pet Supplies']
+
+    for Category_Id,category in enumerate(Category_names,start=1):
+
+        for _ in range(20):
+
+            Brand=random.choice(Brands[category])
+
+            Product=random.choice(Products[category])
+
+            Cost=random.randint(100,50000)
+            
+            Selling=round(Cost * random.uniform(1.1, 1.6), 2)
+
+            ProductsData.append({
+
+                'ProductId': f'PROD{Product_Id:05}',
+
+                'ProductName': f" Brand: {Brand}  {Product}",
+
+                'CategoryId':Category_Id,
+
+                'Brand': Brand,
+
+                'CostPrice': Cost,
+
+                'SellingPrice': Selling,
+
+                'LaunchDate': fake.date_between(start_date='-3y', end_date='today'),
+
+                'IsActive': 1
+            })
+
+            Product_Id+=1
+    
+    df = pd.DataFrame(ProductsData)
+
+    df.to_csv('Dataset/ProductsData.csv', index=False)
+
+    print("Products Data Generated and Saved to ProductsData.csv")
+
+    return df
+
+
+

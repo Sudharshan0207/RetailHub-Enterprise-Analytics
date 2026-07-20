@@ -1,6 +1,7 @@
 from generators import *
 
-df =generate_customers_data()
-df1=generate_categories_data()
+generate_customers_data()
+generate_categories_data()
+generate_products_data()
 
 
