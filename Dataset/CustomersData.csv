@@ -1,0 +1,1001 @@
+CustomerCode,FirstName,LastName,Gender,DateOfBirth,Email,Phone,City,State,Region,JoiningDate,CustomerSegment
+CUST00001,Jagrati,Singh,Male,2002-03-16,parmarmadhav@example.com,+916800944310,Tadipatri,Uttarakhand,West,2022-06-11,Regular
+CUST00002,Dayamai,Raman,Male,2007-07-08,omittal@example.com,9806442691,Bokaro,Jharkhand,East,2024-10-07,Corporate
+CUST00003,Saumya,Manne,Female,1990-06-13,pranit01@example.net,04527379625,Chandrapur,Uttar Pradesh,South,2025-09-11,Corporate
+CUST00004,Idika,Bora,Female,1987-03-13,fbalay@example.net,7999369920,Chandrapur,Meghalaya,West,2024-07-04,Premium
+CUST00005,Forum,Dube,Female,1988-10-18,cchad@example.org,08372386446,Tirunelveli,Uttar Pradesh,South,2024-12-24,Corporate
+CUST00006,Vinaya,Pai,Female,1971-09-10,bordelucky@example.org,6789028329,Karimnagar,Punjab,North,2026-01-26,Corporate
+CUST00007,Samarth,Bath,Female,2004-05-07,anvi94@example.net,+914886764807,Chinsurah,Assam,North,2026-03-10,Regular
+CUST00008,Dalaja,Prashad,Female,1990-02-10,sachichauhan@example.net,07151899831,Kishanganj,Bihar,North,2025-05-06,Regular
+CUST00009,Eesha,Dhaliwal,Male,2008-03-18,settymanan@example.net,9021669743,Katihar,Mizoram,West,2025-06-06,Corporate
+CUST00010,Advik,Koshy,Female,2002-03-01,urishillaatwal@example.com,+917424167531,Jodhpur,Nagaland,West,2024-12-10,Regular
+CUST00011,Devika,Chaudhari,Female,1976-10-21,golakeya@example.org,3781094481,Vasai-Virar,Odisha,West,2022-04-02,Premium
+CUST00012,Anvi,Panchal,Male,1993-05-08,bahadurjit58@example.net,3035381174,Nagercoil,Odisha,West,2022-12-01,Regular
+CUST00013,Diya,Viswanathan,Female,1971-12-11,kademason@example.net,+918945459592,Karawal Nagar,Gujarat,North,2022-01-16,Corporate
+CUST00014,Bachittar,Hayer,Female,1974-11-15,wablefaris@example.net,06153408242,Alappuzha,Manipur,North,2026-04-04,Regular
+CUST00015,Ojasvi,Chokshi,Female,1971-11-24,ria09@example.com,0732810741,Erode,Assam,North,2025-11-05,Corporate
+CUST00016,Manthan,Dar,Male,1981-08-29,cnatarajan@example.net,0150941978,Nandyal,Uttarakhand,North,2024-09-13,Corporate
+CUST00017,Pranit,Sinha,Male,1975-03-17,ayushmanzachariah@example.org,+910121236767,Raiganj,Chhattisgarh,East,2024-12-01,Regular
+CUST00018,Udant,Gulati,Male,1989-11-13,omisha35@example.org,5540485405,Warangal,Nagaland,South,2022-01-01,Premium
+CUST00019,Anika,Kala,Female,1983-01-16,abha62@example.org,00236132690,Warangal,Kerala,West,2026-05-16,Corporate
+CUST00020,Oliver,Bansal,Female,1978-08-03,saranjeremiah@example.com,3361950896,Davanagere,Madhya Pradesh,East,2023-10-24,Premium
+CUST00021,Ati,Basu,Male,1993-06-01,banjeetsarkar@example.org,08226208095,Jodhpur,Andhra Pradesh,East,2026-05-07,Regular
+CUST00022,Liam,Dixit,Male,1985-04-29,sramachandran@example.com,07830700741,Bhatpara,Gujarat,South,2024-12-25,Corporate
+CUST00023,Ekaraj,Varghese,Female,1978-05-29,manyareddy@example.com,9561862341,Begusarai,Uttarakhand,East,2025-10-14,Regular
+CUST00024,Charita,Khatri,Female,1972-08-19,sehgallopa@example.com,05497082074,Faridabad,Arunachal Pradesh,West,2024-02-24,Regular
+CUST00025,Samar,Kale,Male,1974-10-19,jyoti24@example.net,+917021233393,Unnao,Karnataka,North,2023-07-29,Corporate
+CUST00026,Vedhika,Tak,Female,1984-05-19,aarinideol@example.org,3934511663,Siwan,Arunachal Pradesh,North,2022-09-26,Premium
+CUST00027,Samar,Vasa,Female,2005-10-25,hemangsangha@example.com,9075976267,Shivpuri,Mizoram,West,2026-03-20,Premium
+CUST00028,Girindra,Korpal,Female,1989-10-24,ksem@example.net,2730893543,Tinsukia,Tripura,South,2022-03-24,Premium
+CUST00029,Garima,Jha,Male,1974-09-06,buchfinn@example.com,2229935460,Thiruvananthapuram,Nagaland,West,2025-12-02,Corporate
+CUST00030,Ridhi,Hayre,Male,1998-11-26,skant@example.org,+916186975360,Alwar,Rajasthan,North,2024-09-22,Premium
+CUST00031,Patrick,Badami,Male,1967-05-01,zmody@example.org,09979601238,Khammam,Gujarat,West,2023-09-20,Premium
+CUST00032,Chakradhar,Verma,Male,1986-05-29,atharv71@example.org,+914862839426,Faridabad,Jharkhand,West,2022-07-21,Premium
+CUST00033,Irya,Barad,Female,1999-04-05,anjalikalla@example.net,+918603124157,Rewa,Punjab,South,2022-09-03,Regular
+CUST00034,Theodore,Bains,Male,1971-07-11,jraghavan@example.net,2772213861,Baranagar,Chhattisgarh,South,2024-04-19,Regular
+CUST00035,Nitara,Kala,Female,1989-12-28,henry08@example.org,08924977254,Sikar,Karnataka,North,2024-06-26,Regular
+CUST00036,Tanveer,Kapur,Male,1991-04-09,ugill@example.org,09542824281,Bikaner,West Bengal,North,2022-06-08,Premium
+CUST00037,Anmol,Bhakta,Female,1995-09-29,lakshitsastry@example.com,+912410051758,Gwalior,Uttar Pradesh,East,2024-03-26,Premium
+CUST00038,Jalsa,Gulati,Female,1989-09-01,ethankalita@example.org,+912246799700,Sambhal,Sikkim,South,2024-11-27,Premium
+CUST00039,Urvi,Dube,Female,1987-03-26,simon99@example.com,06002813965,Jabalpur,Goa,East,2026-04-22,Premium
+CUST00040,Pahal,Chandra,Male,1983-12-02,aarushraja@example.net,4196884309,Muzaffarnagar,Haryana,West,2026-02-28,Premium
+CUST00041,Dhriti,Sarma,Male,1984-05-21,gaurangi03@example.net,8833809092,Kollam,Odisha,East,2021-09-01,Premium
+CUST00042,Bhavya,Hora,Female,2005-05-19,krishnamurthybalendra@example.com,7842237272,Hubli–Dharwad,Arunachal Pradesh,South,2025-07-08,Regular
+CUST00043,Neelima,Modi,Female,1997-06-06,kavyasingh@example.org,05877686473,Tumkur,Mizoram,East,2021-11-19,Corporate
+CUST00044,Yashasvi,Anand,Male,1986-05-23,dahuja@example.org,09630549018,Kozhikode,Haryana,East,2025-05-24,Corporate
+CUST00045,Parth,Anand,Male,1996-12-24,ethan12@example.net,0561373175,Bhatpara,Chhattisgarh,East,2025-11-28,Corporate
+CUST00046,Ekalinga,Dar,Male,2006-05-19,dkarpe@example.org,+915652254622,Kharagpur,Meghalaya,East,2022-10-26,Premium
+CUST00047,Hemangini,Baria,Female,1981-08-18,wmunshi@example.org,+915934211658,Delhi,Karnataka,West,2024-09-01,Corporate
+CUST00048,Lakshmi,Kale,Female,1986-08-10,narangaarini@example.org,07009738996,Katihar,Uttarakhand,South,2025-08-05,Regular
+CUST00049,Kalpit,Hayre,Male,1969-08-10,aarav75@example.org,+915776546296,Tadipatri,Sikkim,South,2023-06-03,Corporate
+CUST00050,Lohit,Sha,Male,1988-11-16,lipika86@example.net,4207366964,Motihari,Tripura,East,2023-03-05,Corporate
+CUST00051,Naksh,Saraf,Female,1974-02-08,zsridhar@example.net,+913549420776,Srinagar,Gujarat,East,2023-02-12,Regular
+CUST00052,Jacob,Banik,Male,1966-05-28,zaitrasangha@example.org,01426538532,Gorakhpur,Meghalaya,North,2023-04-23,Corporate
+CUST00053,Ojasvi,Sengupta,Female,1992-01-27,khalsavedika@example.net,03824994687,Ranchi,Punjab,North,2025-06-18,Regular
+CUST00054,Zaid,Dugar,Male,1989-07-31,aadhya52@example.com,+910501458600,Bhiwani,Goa,North,2023-02-28,Regular
+CUST00055,Azaan,Nazareth,Female,1975-12-22,emahal@example.org,08439184472,Kanpur,Himachal Pradesh,East,2025-04-23,Regular
+CUST00056,Vasudha,Patel,Male,2007-12-30,chaitalyravi@example.com,+912290850939,Bhalswa Jahangir Pur,Assam,East,2025-04-22,Regular
+CUST00057,Ekanta,Mohanty,Female,2003-05-06,george08@example.com,08623796027,Chennai,Bihar,West,2024-01-25,Premium
+CUST00058,Mitesh,Bumb,Female,1980-12-06,bajajamruta@example.org,02186598429,Rourkela,Madhya Pradesh,West,2022-08-28,Premium
+CUST00059,Upadhriti,Mani,Male,1978-03-22,krishnamitra@example.org,2277145665,Raurkela Industrial Township,Manipur,South,2021-12-12,Corporate
+CUST00060,Aashi,Karpe,Female,1976-02-09,falak84@example.org,05838763367,Varanasi,Haryana,South,2021-09-06,Corporate
+CUST00061,Ayaan,Nadig,Male,1994-09-02,mraval@example.org,03384999583,Bulandshahr,West Bengal,West,2022-10-25,Corporate
+CUST00062,Mahika,Sundaram,Male,1974-05-24,narainurvashi@example.net,04828721233,Erode,Chhattisgarh,West,2024-08-22,Premium
+CUST00063,Ranbir,Chaudhary,Female,2004-10-16,tanviswamy@example.org,06029175218,Jalgaon,Haryana,West,2021-08-17,Corporate
+CUST00064,Udyati,Narayanan,Male,1978-10-10,qkari@example.com,+913790584905,Tiruvottiyur,Himachal Pradesh,North,2025-02-03,Regular
+CUST00065,Edhitha,Choudhury,Male,1975-04-22,hsoni@example.com,4326157642,Guntur,Assam,East,2026-03-28,Regular
+CUST00066,Anvi,Narain,Female,1984-07-23,sarahayre@example.org,6582179995,Bilaspur,Odisha,North,2025-05-10,Corporate
+CUST00067,Aachal,Kibe,Male,1975-07-25,charles73@example.org,04390863542,Durgapur,Meghalaya,South,2022-02-16,Regular
+CUST00068,Maanav,Master,Female,1996-05-22,anmolanne@example.com,+917186980270,Dhanbad,Meghalaya,North,2022-10-17,Corporate
+CUST00069,Radha,Ranganathan,Male,1973-04-20,kashish61@example.org,+916825754515,Adoni,Odisha,East,2025-07-31,Regular
+CUST00070,Nihal,Dutta,Female,2004-09-11,ychad@example.net,01135148244,Tiruvottiyur,Odisha,North,2024-01-13,Premium
+CUST00071,Jason,Dara,Male,1997-12-07,zayyanbora@example.com,07720671478,Chinsurah,Telangana,South,2024-11-12,Premium
+CUST00072,Priya,Sangha,Female,1995-05-07,mandnandini@example.com,03209235609,Chandigarh,Uttarakhand,South,2023-06-06,Regular
+CUST00073,Alka,Srinivasan,Female,1977-01-08,ladqasim@example.net,+913594362827,Kavali,Telangana,West,2023-03-24,Corporate
+CUST00074,Nidhi,Som,Male,1997-11-19,soodriya@example.org,00314902161,Amroha,Sikkim,North,2025-03-26,Premium
+CUST00075,Riya,Oommen,Male,1999-11-12,zdass@example.com,+914285118212,Kottayam,Chhattisgarh,North,2025-04-28,Corporate
+CUST00076,Gavin,Issac,Male,2000-06-30,karanyutika@example.com,+914770318313,Nashik,Karnataka,West,2024-03-29,Regular
+CUST00077,Christopher,Ghose,Male,2006-03-25,manthan48@example.net,+912480911083,Dhanbad,Mizoram,East,2023-10-04,Premium
+CUST00078,Upadhriti,Dara,Male,2000-09-27,max93@example.net,02486144300,Jaipur,Chhattisgarh,East,2023-12-23,Premium
+CUST00079,Urvi,Sule,Female,1986-10-28,jvaidya@example.net,2182665764,Udupi,Andhra Pradesh,East,2023-10-09,Corporate
+CUST00080,Urvashi,Verma,Male,1973-07-03,bishakhasinghal@example.org,6289353630,Aizawl,Tripura,North,2024-06-24,Corporate
+CUST00081,Chasmum,Sanghvi,Female,1971-09-26,atitandon@example.net,06180100695,Coimbatore,Jharkhand,East,2023-05-03,Premium
+CUST00082,Bachittar,Sethi,Female,1994-06-28,hayredavid@example.com,1134402541,Hubli–Dharwad,Uttarakhand,North,2025-12-06,Regular
+CUST00083,Inaya,Lata,Male,1991-08-10,vdugar@example.org,3352011326,Dhanbad,Manipur,South,2022-07-24,Regular
+CUST00084,Gaurangi,Borde,Female,2005-12-01,garimakale@example.org,+910039482237,Dehradun,Tripura,East,2024-02-15,Corporate
+CUST00085,Chatura,Kant,Female,2006-07-02,bhavani84@example.com,01627902620,Saharanpur,Sikkim,North,2022-05-11,Premium
+CUST00086,Siya,Deep,Male,1991-11-08,baljiwan89@example.org,08327188078,Jabalpur,Odisha,North,2023-03-16,Regular
+CUST00087,Lipika,Chatterjee,Male,2005-03-18,fiyazjoshi@example.org,+915176933805,Gaya,Manipur,South,2023-08-17,Corporate
+CUST00088,Orinder,Barad,Female,1989-10-07,wyatt70@example.com,+914745827571,Bhopal,Bihar,South,2024-09-19,Corporate
+CUST00089,Karan,Modi,Male,1992-05-22,chokshinilima@example.org,+913959901171,Salem,Arunachal Pradesh,North,2025-12-02,Premium
+CUST00090,Hemani,Rau,Female,1974-09-05,kamya39@example.com,+913772386285,Bangalore,Tripura,South,2024-11-08,Premium
+CUST00091,Nitara,Behl,Female,1983-09-11,bhaktaamrita@example.net,+916478882623,Bikaner,Uttar Pradesh,West,2024-12-30,Corporate
+CUST00092,Zarna,Mohanty,Female,1985-04-30,oni98@example.com,+918890956216,Bhilai,Telangana,East,2022-08-15,Corporate
+CUST00093,Bishakha,Divan,Female,1980-01-31,cbadami@example.com,02639978480,Kumbakonam,Andhra Pradesh,East,2022-02-18,Regular
+CUST00094,Balveer,Memon,Female,1989-01-18,syadav@example.com,4854747320,Phusro,West Bengal,East,2023-10-12,Corporate
+CUST00095,Kevin,Samra,Male,1967-07-10,avigarde@example.net,+911783100980,Sagar,Haryana,West,2022-11-17,Premium
+CUST00096,Ekantika,Varkey,Female,2004-10-25,arunima05@example.org,5530245706,Kota,West Bengal,East,2025-01-15,Regular
+CUST00097,Gaurav,Radhakrishnan,Female,2001-03-22,lallazinal@example.org,+918272714551,Raichur,Haryana,South,2025-06-12,Premium
+CUST00098,Kavya,Shroff,Male,1992-12-11,lakshitmishra@example.org,4271808752,Kozhikode,Assam,West,2024-04-15,Regular
+CUST00099,Gayathri,Mutti,Female,1986-10-17,cparikh@example.com,+918819816533,Jehanabad,Punjab,North,2022-06-18,Corporate
+CUST00100,Chandani,Cherian,Male,1987-05-08,baljiwan80@example.org,03803468249,Karaikudi,Chhattisgarh,East,2023-10-29,Regular
+CUST00101,Ekalinga,Majumdar,Male,1983-02-05,nandasiddharth@example.net,3953697692,Raichur,Sikkim,South,2023-12-10,Premium
+CUST00102,Rehaan,Dube,Male,1988-10-15,sarthakkapur@example.com,+918842099787,Erode,Punjab,South,2025-03-20,Premium
+CUST00103,Kashish,Ranganathan,Male,1978-02-09,lalmatthew@example.net,+919359446614,Karimnagar,Odisha,North,2025-09-12,Corporate
+CUST00104,Abdul,Kara,Female,2001-11-28,dnagi@example.org,5598782079,Munger,Tripura,East,2023-01-24,Premium
+CUST00105,Forum,Natarajan,Male,1988-02-25,kkaur@example.org,+912421173408,Hosur,Mizoram,North,2025-06-05,Premium
+CUST00106,Xalak,Prashad,Male,1980-05-04,ksarkar@example.net,7030977362,Tirunelveli,Madhya Pradesh,East,2022-01-17,Regular
+CUST00107,Bakhshi,Issac,Female,2008-01-26,brinda19@example.org,3560716229,Aurangabad,Haryana,North,2024-09-21,Premium
+CUST00108,Samar,Shukla,Male,1994-03-31,chakradev99@example.org,1973942811,Kozhikode,Telangana,West,2022-06-06,Corporate
+CUST00109,Teerth,Hans,Female,2003-08-05,jayaramanfarhan@example.net,+910232974634,Bokaro,Meghalaya,South,2024-10-15,Corporate
+CUST00110,Osha,Acharya,Male,1979-05-02,dattarehaan@example.net,04328802056,Hajipur,Uttar Pradesh,North,2026-02-24,Premium
+CUST00111,Viraj,Tata,Female,1978-04-02,yachanadayal@example.com,+915935374269,Madhyamgram,Haryana,South,2025-07-04,Regular
+CUST00112,Libni,Lala,Female,1989-01-16,anjali82@example.org,05505043978,Junagadh,Assam,East,2026-02-25,Premium
+CUST00113,Samar,Krishna,Male,1990-05-15,qadimdasgupta@example.org,+914357473133,Delhi,Madhya Pradesh,West,2026-01-26,Corporate
+CUST00114,Eiravati,Bedi,Male,1982-04-07,gaurisane@example.net,5566059088,Ballia,Manipur,South,2025-05-25,Corporate
+CUST00115,Gauri,Bala,Female,1975-08-24,sooddipta@example.net,4744988395,Begusarai,Uttarakhand,East,2025-06-26,Regular
+CUST00116,Nitara,Agarwal,Male,1989-09-08,obose@example.com,+916342104462,Bhopal,Gujarat,East,2024-03-12,Regular
+CUST00117,Matthew,Dasgupta,Female,1996-01-20,onkar40@example.org,3971624669,Shivpuri,Tamil Nadu,North,2021-08-09,Regular
+CUST00118,Dalaja,Ganguly,Female,1998-07-26,champakpandya@example.com,1148784318,Naihati,Manipur,East,2022-05-09,Corporate
+CUST00119,Siddharth,Jha,Female,1966-01-29,sneha91@example.org,9541994865,Kozhikode,West Bengal,East,2023-08-01,Regular
+CUST00120,Shaurya,Suresh,Male,1995-08-01,adyasankaran@example.net,+914435165158,Thrissur,Andhra Pradesh,East,2023-01-25,Regular
+CUST00121,Yashasvi,Rai,Male,1986-01-31,janaki00@example.net,+916539824259,Kalyan-Dombivli,Himachal Pradesh,South,2022-12-26,Corporate
+CUST00122,Libni,Dhawan,Male,1991-07-16,sureshyashoda@example.net,01135150482,Belgaum,Himachal Pradesh,North,2024-11-30,Corporate
+CUST00123,Jasmit,Mallick,Male,1969-06-27,dugarkashvi@example.net,07750424441,Muzaffarnagar,Telangana,South,2024-08-28,Premium
+CUST00124,Ranbir,Prabhu,Male,2003-04-20,gangaborah@example.com,4698115962,Khammam,Chhattisgarh,East,2024-03-08,Corporate
+CUST00125,Veer,Toor,Female,1983-05-06,tsahni@example.com,+917155486684,Ramgarh,West Bengal,North,2021-10-15,Regular
+CUST00126,Neel,Gulati,Male,2005-06-06,oscardube@example.com,08038165217,Panvel,Chhattisgarh,East,2022-12-26,Regular
+CUST00127,Pahal,Chandra,Male,1991-03-23,sagargaurav@example.net,04652540455,Vadodara,Nagaland,East,2025-09-03,Regular
+CUST00128,Ojasvi,Din,Male,1969-06-30,onveer56@example.com,8508481374,Bhiwani,Gujarat,North,2023-01-29,Regular
+CUST00129,Elijah,Jhaveri,Female,1970-02-18,akaran@example.net,01365426962,Kamarhati,Tamil Nadu,North,2021-12-13,Premium
+CUST00130,Sathvik,Bose,Male,1972-04-13,samesh46@example.com,5247909495,Ahmedabad,Nagaland,South,2024-03-01,Corporate
+CUST00131,Utkarsh,Garg,Male,1970-04-11,lsundaram@example.net,7726835071,Karawal Nagar,Maharashtra,West,2026-05-24,Premium
+CUST00132,Anjali,Tara,Male,1968-03-24,jeremiahgole@example.net,+914214976887,Mathura,Mizoram,North,2024-10-13,Premium
+CUST00133,Ekbal,Dalal,Male,2001-05-13,chandafariq@example.com,+918981153505,Vellore,Telangana,South,2023-01-25,Regular
+CUST00134,Januja,Chandra,Male,1985-06-17,yatanreddy@example.org,+911993159999,Pallavaram,West Bengal,South,2023-10-21,Regular
+CUST00135,Nidhi,Shankar,Female,1969-12-05,dalajabail@example.com,+917943181776,Pondicherry,Jharkhand,West,2025-10-10,Regular
+CUST00136,Veer,Hegde,Female,1987-02-28,ekantika35@example.org,05141992254,Rourkela,Madhya Pradesh,East,2025-12-03,Corporate
+CUST00137,Gaurangi,Nagar,Male,2000-03-13,ronith44@example.org,+912622225068,Hapur,Gujarat,South,2023-09-05,Premium
+CUST00138,Saumya,Basu,Female,1995-09-18,luthravanya@example.com,4725686549,Guwahati,Andhra Pradesh,West,2022-05-06,Corporate
+CUST00139,Barkha,Kala,Male,2006-03-15,tellarushil@example.net,0688215939,Morena,Madhya Pradesh,South,2022-09-25,Corporate
+CUST00140,Simon,Dayal,Male,2002-09-20,sacharaadhya@example.org,4467119094,Navi Mumbai,Tripura,North,2023-10-23,Regular
+CUST00141,Bachittar,Lalla,Male,1976-01-09,menonvasudha@example.net,+914003946613,Ajmer,Andhra Pradesh,West,2025-03-09,Premium
+CUST00142,Rehaan,Tella,Male,1989-04-16,chaturabutala@example.net,2379271749,Chandrapur,Uttar Pradesh,North,2024-01-12,Premium
+CUST00143,Chavvi,Krishnamurthy,Male,1977-06-01,sparmar@example.net,2309994945,Bhiwani,Gujarat,North,2022-03-10,Premium
+CUST00144,Matthew,Behl,Male,2002-04-14,abdulchaudhry@example.net,4858680167,Chittoor,Goa,West,2025-05-22,Regular
+CUST00145,Laban,Basak,Male,1967-02-26,nandini69@example.com,08951148208,Kolhapur,Goa,East,2025-07-27,Regular
+CUST00146,Ekansh,Kurian,Female,1982-07-20,bsachdev@example.org,2619004052,Nellore,Maharashtra,West,2026-06-15,Regular
+CUST00147,Manthan,Chanda,Female,1978-07-25,pratyushbose@example.org,0930009457,Chapra,Kerala,East,2024-04-26,Corporate
+CUST00148,Avi,Bajwa,Male,1990-01-09,thamanbhavya@example.net,09292412904,Nizamabad,Rajasthan,East,2023-09-07,Regular
+CUST00149,Jagvi,Chawla,Male,1978-07-10,rajagopalannaveen@example.org,9989163937,Tezpur,Jharkhand,West,2025-01-05,Regular
+CUST00150,Qabil,Date,Female,1970-10-19,qpathak@example.com,+914497039741,Akola,Tamil Nadu,East,2025-07-27,Regular
+CUST00151,Finn,Panchal,Male,1993-04-27,prishakapur@example.com,6182227713,Aizawl,Uttar Pradesh,South,2023-04-13,Regular
+CUST00152,Om,Behl,Female,1967-11-23,daniel45@example.com,06793047982,Siwan,Haryana,East,2023-02-01,Corporate
+CUST00153,Mohammed,Tella,Male,1973-12-24,jagratianne@example.org,5503246823,Haldia,Jharkhand,South,2024-11-18,Regular
+CUST00154,Girik,Setty,Female,1998-07-21,adevi@example.net,+917769475977,Serampore,Odisha,South,2021-07-31,Regular
+CUST00155,Divya,Mohan,Female,1983-02-10,tsoni@example.org,+913943367331,Bidar,Sikkim,South,2022-04-24,Regular
+CUST00156,Raghav,Wable,Female,1971-03-23,palvrinda@example.org,+916160727125,Durg,Rajasthan,West,2023-05-17,Regular
+CUST00157,Jai,Bakshi,Male,1976-06-30,zayannadkarni@example.org,6766570263,Khandwa,Rajasthan,West,2024-06-14,Corporate
+CUST00158,Maanav,Virk,Male,1970-12-12,tanish17@example.net,1620679575,Kurnool,Arunachal Pradesh,North,2024-01-20,Premium
+CUST00159,Jagdish,Master,Female,1983-11-05,bandimegha@example.org,+911871311594,Singrauli,Bihar,South,2023-12-17,Regular
+CUST00160,Luke,More,Male,1966-10-09,nathanwadhwa@example.org,+916770544127,Berhampur,Himachal Pradesh,South,2022-03-28,Premium
+CUST00161,Jagrati,Bhavsar,Male,1997-06-16,arjunsolanki@example.org,0258378249,Ratlam,Rajasthan,North,2022-11-26,Premium
+CUST00162,Ayush,Gade,Male,1979-09-30,anjali56@example.net,4681840489,Chinsurah,Nagaland,North,2025-01-20,Corporate
+CUST00163,Ojasvi,Sachdev,Female,1991-12-21,lakshmi97@example.com,+918535878571,Moradabad,Jharkhand,West,2025-05-11,Regular
+CUST00164,Bhanumati,Desai,Male,1981-04-01,dhaliwalati@example.com,0518192818,Coimbatore,Bihar,East,2026-01-12,Premium
+CUST00165,Matthew,Sibal,Female,1997-07-15,gaurangmann@example.com,+915688944341,Karimnagar,Rajasthan,East,2024-02-27,Regular
+CUST00166,Indali,Nagi,Male,1974-08-29,wpandya@example.org,02524565109,Sambalpur,Uttar Pradesh,West,2022-06-18,Regular
+CUST00167,Neelima,Mammen,Female,2007-01-06,samesh41@example.org,08441443158,Mangalore,Arunachal Pradesh,North,2023-08-26,Corporate
+CUST00168,Anthony,Kohli,Female,1984-12-15,fradotoor@example.net,09577467486,Ambarnath,Mizoram,South,2021-09-07,Regular
+CUST00169,Ekta,Tandon,Female,2002-08-11,sidhuvinaya@example.com,07263123872,Ujjain,Sikkim,East,2021-11-19,Corporate
+CUST00170,Krisha,Hegde,Female,1976-11-28,ladlitak@example.com,3813376326,Sikar,Kerala,East,2023-08-25,Regular
+CUST00171,Quincy,Shan,Female,1993-05-19,yoshitaoza@example.org,+910575476233,Bokaro,Arunachal Pradesh,East,2026-07-07,Regular
+CUST00172,Riya,Varty,Male,2007-06-10,mratti@example.org,03949195782,Phusro,Tripura,East,2025-10-15,Regular
+CUST00173,Chameli,Oza,Male,2005-07-08,tamannanagar@example.com,06382931051,Kadapa,Arunachal Pradesh,South,2022-04-18,Premium
+CUST00174,Daksha,Wable,Male,2007-02-03,tbala@example.com,+916686760126,Vadodara,Kerala,South,2026-04-07,Premium
+CUST00175,Samarth,Seshadri,Male,1998-01-18,hemangini57@example.com,07020009783,Unnao,Kerala,West,2024-12-14,Regular
+CUST00176,Aradhana,Swamy,Female,1981-10-15,benjamin39@example.org,07977798766,Rajkot,Maharashtra,North,2025-12-10,Premium
+CUST00177,Balendra,Sachdev,Female,1973-07-19,surabhavya@example.net,03006940617,Sambalpur,Tripura,East,2023-12-13,Premium
+CUST00178,Vivaan,Manne,Female,2004-02-26,charles34@example.org,09394876898,Thoothukudi,Uttar Pradesh,West,2023-10-31,Regular
+CUST00179,Anya,Hari,Female,1981-10-26,wahab69@example.net,8675319773,Chandigarh,Jharkhand,North,2025-12-19,Regular
+CUST00180,Kai,Toor,Female,1992-11-04,ikshitamody@example.org,+915258745817,Hubli–Dharwad,Assam,West,2025-04-26,Regular
+CUST00181,Darsh,Chandra,Female,1987-09-11,netra44@example.net,+912414380543,Ongole,Tripura,North,2026-07-13,Premium
+CUST00182,Suhani,Mukhopadhyay,Male,2005-04-25,harinakshitiwari@example.org,07910444194,Mangalore,Manipur,North,2025-11-29,Corporate
+CUST00183,Vihaan,Sangha,Female,1994-08-24,groverhitesh@example.net,0577314712,Gandhinagar,Punjab,East,2025-04-21,Corporate
+CUST00184,Lipika,Chandra,Male,2005-02-28,qgola@example.net,7419464231,Dehri,Manipur,East,2021-08-28,Corporate
+CUST00185,Faras,Choudhary,Male,2006-12-22,neelbajaj@example.org,03625060259,Barasat,Meghalaya,South,2025-09-03,Corporate
+CUST00186,Aarav,Bhargava,Male,1979-07-23,sachdevvedant@example.com,08250213950,Saharsa,Assam,North,2025-03-10,Corporate
+CUST00187,Aarna,Patil,Male,1980-02-05,hemangini99@example.net,09274485648,Nagercoil,Chhattisgarh,East,2021-08-06,Regular
+CUST00188,Gaurangi,Narula,Female,1995-07-31,theodore05@example.com,00443649041,Dindigul,Haryana,East,2025-01-14,Corporate
+CUST00189,Bahadurjit,Bedi,Female,1966-11-25,samar21@example.com,5473743792,Howrah,Madhya Pradesh,East,2022-03-31,Regular
+CUST00190,Dayamai,Sachar,Male,1985-08-19,balveer32@example.com,07393223576,Mahbubnagar,Haryana,North,2026-05-13,Premium
+CUST00191,Vaishnavi,Bose,Female,1995-06-06,bhavani42@example.com,+910555670562,Patna,Tamil Nadu,West,2022-07-16,Corporate
+CUST00192,Keya,Thakkar,Female,2004-08-18,aryamane@example.net,1496086317,Raebareli,Gujarat,East,2024-04-03,Corporate
+CUST00193,Abdul,Kapoor,Male,1981-05-16,bajwaquincy@example.net,08640117397,Bidhannagar,Uttar Pradesh,North,2022-11-16,Regular
+CUST00194,Krisha,Magar,Female,1970-05-05,ranbirbarad@example.com,+912870640205,Saharsa,Assam,West,2024-07-22,Premium
+CUST00195,Triya,Lall,Female,1979-12-11,dkrishnamurthy@example.net,+910387660612,Dhanbad,Punjab,West,2022-05-24,Corporate
+CUST00196,Chanakya,Dara,Female,1996-06-21,uratta@example.net,5472841020,Hosur,Andhra Pradesh,East,2024-06-14,Premium
+CUST00197,Girindra,Khanna,Male,2002-06-29,hbhasin@example.org,3199378246,Shimoga,Sikkim,West,2024-03-29,Regular
+CUST00198,Saumya,Tella,Male,2008-05-02,bhatnagarqadim@example.com,00240507390,Medininagar,Assam,North,2022-06-03,Regular
+CUST00199,Oni,Modi,Male,1967-03-06,aryachar@example.org,7450797237,Fatehpur,West Bengal,North,2024-09-21,Corporate
+CUST00200,Chaitaly,Bora,Female,2008-07-06,qbrar@example.org,3281796976,Shimla,Gujarat,East,2023-10-10,Corporate
+CUST00201,Amrita,Singh,Male,1966-05-01,maanavkonda@example.net,4513684435,Sikar,Andhra Pradesh,West,2025-09-15,Regular
+CUST00202,Adya,Kohli,Male,1982-12-04,narayananpavani@example.org,02433476698,Ambattur,Madhya Pradesh,South,2022-09-03,Regular
+CUST00203,Niharika,Kannan,Male,1965-09-24,ekansh48@example.org,07909422434,Malegaon,Uttarakhand,East,2024-03-25,Premium
+CUST00204,Nitesh,Palan,Male,1990-05-30,chanajagrati@example.net,9562820861,Dhule,West Bengal,North,2023-10-24,Premium
+CUST00205,Jalsa,Sachdeva,Female,2003-11-30,sodhiekavir@example.net,8363980649,Vadodara,Maharashtra,West,2025-02-27,Corporate
+CUST00206,Devansh,Pal,Male,1965-09-02,zayan97@example.net,09923886633,Guntakal,Bihar,North,2024-02-14,Premium
+CUST00207,Tanay,Gill,Male,1978-02-02,parthhayer@example.net,04778252309,Jaipur,Goa,North,2026-05-03,Premium
+CUST00208,Kiaan,Grewal,Female,1974-10-12,chandranwidisha@example.org,00709643647,Delhi,West Bengal,East,2021-11-10,Regular
+CUST00209,Bahadurjit,Narayanan,Male,1980-12-12,upkaar55@example.com,+913506551752,Singrauli,Meghalaya,South,2025-02-01,Premium
+CUST00210,Hemani,Bail,Female,1991-10-05,abhirammaharaj@example.org,03551576806,Mathura,Maharashtra,South,2022-04-19,Corporate
+CUST00211,Nicholas,Andra,Male,1965-09-20,lopagala@example.com,3707340661,Medininagar,Himachal Pradesh,North,2026-06-23,Corporate
+CUST00212,Girindra,Mangal,Female,1966-03-13,jpalla@example.net,0394511563,Narasaraopet,Goa,North,2025-11-08,Regular
+CUST00213,Advik,Chaudry,Female,1985-12-09,pchoudhary@example.net,09276945990,Darbhanga,Arunachal Pradesh,North,2021-10-27,Premium
+CUST00214,Mohini,Acharya,Male,1980-02-16,uvala@example.net,8457715024,Saharsa,Tamil Nadu,East,2021-08-08,Regular
+CUST00215,Sudiksha,Chacko,Male,2005-07-24,ngour@example.net,+910680205615,Baranagar,Sikkim,East,2023-01-09,Corporate
+CUST00216,Lakshit,Om,Male,1993-09-09,rtripathi@example.org,+913891732288,Bijapur,Bihar,East,2022-11-20,Corporate
+CUST00217,Hemang,Roy,Male,1980-03-06,kalitagirindra@example.org,8457410593,Mirzapur,Tamil Nadu,North,2023-12-04,Regular
+CUST00218,Yutika,Majumdar,Male,1993-04-24,fsami@example.com,01956230308,Sikar,Mizoram,North,2022-03-25,Corporate
+CUST00219,Rohan,Som,Female,1991-06-21,tanmayi39@example.net,00553076188,Bidar,West Bengal,South,2026-06-29,Regular
+CUST00220,Shravya,Cherian,Male,1981-10-11,jeremiahnagarajan@example.com,09839996959,Phagwara,Andhra Pradesh,South,2023-10-17,Corporate
+CUST00221,Aayush,Pandya,Male,1989-07-18,umang48@example.org,+917489447005,Dibrugarh,Manipur,West,2023-02-18,Premium
+CUST00222,Gautami,Garde,Male,1983-05-30,thakkarzaitra@example.net,1040799190,Ongole,Arunachal Pradesh,South,2023-12-20,Corporate
+CUST00223,Bhavani,Bhatnagar,Female,1998-09-27,maniisaiah@example.net,08404174519,Jhansi,Jharkhand,West,2022-12-04,Premium
+CUST00224,Urmi,Uppal,Male,1982-07-26,chadharadha@example.net,3278799034,Panvel,Sikkim,South,2022-03-06,Regular
+CUST00225,Caleb,Goswami,Male,1976-02-07,lavanya37@example.com,+911874510761,Chittoor,Andhra Pradesh,South,2023-07-23,Premium
+CUST00226,Ekta,Doshi,Male,2005-12-01,jbumb@example.com,7589079707,Nanded,Tripura,South,2022-03-01,Corporate
+CUST00227,Hredhaan,Merchant,Female,1972-08-07,elijahganesan@example.org,03710556241,Bahraich,Nagaland,North,2023-10-31,Corporate
+CUST00228,Sarthak,Badami,Male,1974-03-30,ekansh83@example.org,0499258380,Indore,Tripura,North,2022-08-22,Corporate
+CUST00229,Timothy,Chaudhry,Male,1989-02-01,csarin@example.org,04285553086,Gulbarga,Bihar,North,2024-06-18,Premium
+CUST00230,Chakrika,Raval,Female,1976-05-18,harrison63@example.net,04249647405,Mumbai,Himachal Pradesh,East,2024-08-01,Regular
+CUST00231,Jasmit,Sahota,Male,1985-11-07,mganguly@example.net,8241529420,Dehradun,Tamil Nadu,West,2025-08-08,Corporate
+CUST00232,Peter,Venkatesh,Male,1988-04-29,ucchalbhatt@example.org,1281850074,Singrauli,Gujarat,East,2024-03-18,Premium
+CUST00233,Vivaan,Pai,Male,1986-06-16,fariqmaharaj@example.net,05653161512,Ambarnath,Arunachal Pradesh,North,2025-07-27,Regular
+CUST00234,Theodore,Boase,Female,1991-04-23,janyaperi@example.net,+916372861508,Maheshtala,Andhra Pradesh,West,2026-06-27,Premium
+CUST00235,Abha,Kaur,Female,2005-09-03,vnigam@example.org,3116458415,Amritsar,Chhattisgarh,South,2021-12-22,Regular
+CUST00236,Henry,Thakur,Female,2006-11-21,nidrasoni@example.org,2198414653,Nadiad,Odisha,West,2024-11-21,Corporate
+CUST00237,Aachal,Kannan,Male,1983-12-29,vanya49@example.com,00703486082,Dhule,Tamil Nadu,West,2025-03-06,Premium
+CUST00238,Sanya,Vyas,Female,2003-09-09,gautamibarad@example.net,4428862075,Jalandhar,Punjab,North,2023-08-11,Regular
+CUST00239,Shaurya,Sha,Male,1984-02-12,chaitanyaatwal@example.net,+919091900017,Madhyamgram,Tripura,West,2021-10-03,Regular
+CUST00240,Bhavini,Dhar,Male,1976-01-29,royeesha@example.com,07846087463,Salem,Uttarakhand,North,2023-12-27,Regular
+CUST00241,Lipika,Kant,Female,1998-12-03,murtyekta@example.com,+910135171551,Guntur,West Bengal,South,2024-09-25,Regular
+CUST00242,Qabil,Butala,Female,1996-02-11,isavant@example.net,2730874868,Ujjain,Andhra Pradesh,South,2023-01-08,Premium
+CUST00243,Zaid,Bhavsar,Male,2000-04-15,hsaran@example.net,4116343475,Navi Mumbai,West Bengal,East,2023-02-02,Premium
+CUST00244,Frado,Sharaf,Male,1966-07-06,dalaja81@example.org,4556215328,Alwar,Jharkhand,North,2026-02-07,Corporate
+CUST00245,Megha,Borra,Female,1981-07-31,cmann@example.com,8133233826,Indore,Chhattisgarh,East,2026-04-23,Corporate
+CUST00246,Jhalak,Deol,Male,1992-10-19,hegdeabdul@example.com,08327534373,Kirari Suleman Nagar,Tamil Nadu,West,2024-06-18,Corporate
+CUST00247,Gagan,Pau,Female,1988-11-19,apteaayush@example.net,+917546358951,Tiruchirappalli,Mizoram,North,2023-10-22,Regular
+CUST00248,Maanas,Ratti,Male,1971-05-01,jdixit@example.net,6433940068,Ozhukarai,Nagaland,West,2025-12-19,Premium
+CUST00249,Aarush,Basu,Female,1996-01-26,ksaraf@example.net,5062864228,Raebareli,Uttar Pradesh,North,2025-05-28,Premium
+CUST00250,Anita,Hegde,Male,1991-11-27,thayre@example.net,2407066212,Ranchi,Odisha,North,2024-04-24,Corporate
+CUST00251,Sanaya,Bahri,Female,1984-07-12,yashica76@example.net,9189305834,Jaipur,Madhya Pradesh,North,2025-04-14,Premium
+CUST00252,Noah,Boase,Male,1983-05-30,dakshkaul@example.com,+915621032355,Phagwara,Mizoram,West,2022-09-07,Regular
+CUST00253,Kevin,Uppal,Female,1973-01-15,raghav91@example.org,01608251455,Shivpuri,Andhra Pradesh,West,2024-09-26,Premium
+CUST00254,Patrick,Shukla,Female,1998-10-08,isaiah04@example.com,9265498629,Gandhinagar,Maharashtra,West,2025-05-17,Regular
+CUST00255,Oeshi,Bakshi,Male,1973-11-20,chandresh66@example.com,2133832352,Baranagar,Haryana,West,2023-05-07,Premium
+CUST00256,Azaan,Jani,Female,1986-11-01,etanori@example.com,7874451445,Kumbakonam,Sikkim,North,2025-09-16,Regular
+CUST00257,Pratyush,Lanka,Female,1981-01-13,qarinchokshi@example.com,0336144829,Guwahati,West Bengal,South,2024-03-10,Corporate
+CUST00258,Varsha,Butala,Female,2002-02-16,gabaquincy@example.net,1969780093,Vasai-Virar,Arunachal Pradesh,North,2025-05-27,Regular
+CUST00259,Madhavi,Varkey,Female,1994-04-09,sarkararunima@example.org,04062202256,Kollam,Himachal Pradesh,West,2025-07-19,Premium
+CUST00260,Indali,Sankaran,Female,1998-06-16,poojachoudhry@example.org,+910800664273,North Dumdum,Himachal Pradesh,South,2023-05-20,Regular
+CUST00261,Aarnav,Goel,Female,1983-05-20,manya56@example.org,02865414906,Vellore,Uttarakhand,East,2023-11-16,Corporate
+CUST00262,Mitali,Chopra,Male,1975-09-02,salviwarjas@example.com,+918283906570,Tiruppur,Jharkhand,South,2025-05-24,Regular
+CUST00263,Ranbir,Ramesh,Male,1971-05-12,vanyaraja@example.org,9954455153,Khora ,Chhattisgarh,South,2024-02-18,Premium
+CUST00264,Odika,Soman,Male,1992-11-08,abhiram64@example.org,07830217781,Kurnool,Himachal Pradesh,North,2021-11-24,Premium
+CUST00265,Amruta,Oak,Male,1988-09-14,ggrewal@example.net,6679444492,Baranagar,Uttar Pradesh,South,2025-11-18,Corporate
+CUST00266,Yoshita,Maharaj,Female,1990-02-16,tghose@example.com,07804655936,Dibrugarh,Uttarakhand,West,2025-03-01,Regular
+CUST00267,Umang,Bali,Male,1976-07-06,ntandon@example.org,3997336522,Kavali,Haryana,East,2025-11-05,Premium
+CUST00268,Madhav,Narain,Male,1997-01-26,tchatterjee@example.com,07936549190,Dehradun,West Bengal,South,2021-12-21,Regular
+CUST00269,Vihaan,Nath,Female,1999-05-11,krishna19@example.com,+915459477156,Jalna,Arunachal Pradesh,North,2025-04-19,Corporate
+CUST00270,Gopal,Subramanian,Female,1985-07-03,dayamaibarman@example.net,7681096690,Navi Mumbai,Haryana,West,2023-07-30,Regular
+CUST00271,Tanay,Aurora,Female,1998-07-05,praneel56@example.org,+912935926674,Ozhukarai,Gujarat,West,2021-12-17,Regular
+CUST00272,Benjamin,Rattan,Female,1988-06-22,faqidmajumdar@example.org,+913675982235,Madurai,Maharashtra,East,2025-03-20,Premium
+CUST00273,Warhi,Goyal,Male,1982-12-09,diya84@example.net,0865975729,Vijayawada,Chhattisgarh,South,2022-09-05,Premium
+CUST00274,Ladli,Seshadri,Female,1986-10-11,harshilkannan@example.org,01446436951,Kavali,Nagaland,North,2021-12-01,Premium
+CUST00275,Ekta,Jani,Female,2007-06-19,nattdiya@example.com,+911274044915,Satna,Sikkim,North,2023-11-02,Regular
+CUST00276,Maanav,Hari,Male,2006-04-11,balanryan@example.org,+917121363235,Orai,Arunachal Pradesh,East,2024-08-28,Premium
+CUST00277,Chakrika,Gour,Female,1988-12-18,ukhanna@example.net,06007470795,Salem,Uttarakhand,North,2022-03-13,Regular
+CUST00278,Rajata,Pandey,Female,1983-09-01,harshchoudhary@example.net,+912136236609,Gorakhpur,Punjab,East,2024-11-10,Corporate
+CUST00279,Arya,Dara,Male,1993-10-28,rmanne@example.net,00510200794,Nagpur,Andhra Pradesh,South,2024-01-10,Corporate
+CUST00280,Kashvi,Wason,Male,1997-05-26,jlala@example.net,02018444102,Mehsana,Uttarakhand,East,2022-02-24,Corporate
+CUST00281,Amol,Bhatti,Male,2003-07-17,tvasa@example.org,2146690393,Nagpur,Sikkim,South,2022-04-08,Premium
+CUST00282,Luke,Venkatesh,Male,1998-10-04,bchhabra@example.org,3453009548,Bahraich,Uttarakhand,West,2022-12-23,Regular
+CUST00283,Sarthak,Chatterjee,Female,1974-01-14,janakiacharya@example.net,05548749017,Barasat,Madhya Pradesh,East,2022-08-31,Corporate
+CUST00284,Yashoda,Menon,Male,1995-11-15,advaithmand@example.com,07424095674,Nizamabad,Nagaland,West,2022-07-24,Regular
+CUST00285,Tamanna,Kaur,Male,2000-07-29,bhavini43@example.com,07893517284,Amaravati,Chhattisgarh,North,2024-04-04,Premium
+CUST00286,Oni,Shetty,Male,1993-05-05,ipalla@example.com,+913672190981,Junagadh,Sikkim,West,2022-02-19,Premium
+CUST00287,Harini,Chahal,Female,1995-11-08,kai28@example.org,07653305216,Ambarnath,Gujarat,South,2024-03-18,Corporate
+CUST00288,Urvashi,Rajagopalan,Female,1988-06-10,khannacharan@example.org,+910138788642,Kolhapur,Sikkim,West,2023-03-31,Premium
+CUST00289,Idika,Prakash,Female,1977-01-12,tejas88@example.net,07910604025,Katihar,Jharkhand,West,2024-02-01,Regular
+CUST00290,Abhimanyu,Bir,Male,1990-02-17,nandafaraj@example.com,4669984778,Kamarhati,Himachal Pradesh,East,2025-06-13,Premium
+CUST00291,Yachana,Hayre,Female,1980-08-08,ranbir83@example.org,1730525978,Rajahmundry,Punjab,East,2022-01-17,Regular
+CUST00292,Daniel,Chacko,Female,2001-08-18,jacksonhalder@example.com,+915150133598,Sambalpur,Kerala,East,2023-01-10,Premium
+CUST00293,Damini,Das,Female,1995-05-04,ysubramaniam@example.net,4076632491,Gaya,Andhra Pradesh,South,2025-04-19,Premium
+CUST00294,Elijah,Chauhan,Female,1995-12-18,hkanda@example.org,9678406007,Ichalkaranji,Bihar,North,2025-03-31,Regular
+CUST00295,Ekaraj,Lalla,Male,1984-02-23,aptejalsa@example.net,+916143794744,Jodhpur,Madhya Pradesh,North,2025-11-09,Regular
+CUST00296,Panini,Chawla,Female,1992-03-09,isaacramanathan@example.net,06506303562,Khandwa,Goa,West,2022-07-02,Premium
+CUST00297,Mason,Mohan,Female,2007-07-25,csengupta@example.com,6508088780,Aizawl,Telangana,North,2025-04-16,Corporate
+CUST00298,Aarush,Nigam,Female,1974-10-27,oeshiraju@example.net,06173862200,Gwalior,Uttarakhand,East,2025-09-13,Corporate
+CUST00299,Bhavika,Sagar,Female,1965-10-27,vargheseekta@example.org,+916760011979,Gorakhpur,Tamil Nadu,North,2024-02-14,Corporate
+CUST00300,Vansha,Modi,Female,1989-02-26,ansh04@example.net,1904783299,Mira-Bhayandar,Odisha,West,2024-01-04,Regular
+CUST00301,Januja,Sharma,Female,1967-04-30,broy@example.com,+910152780555,Vadodara,Madhya Pradesh,West,2026-03-26,Premium
+CUST00302,Tanmayi,Dhar,Female,2003-02-17,jravi@example.net,8259971867,Ongole,Arunachal Pradesh,East,2024-04-12,Regular
+CUST00303,Bachittar,Puri,Male,1973-07-29,varkeygeetika@example.org,08664616602,Nagercoil,Maharashtra,North,2022-04-10,Corporate
+CUST00304,Qarin,Magar,Male,1984-10-15,yuvrajlanka@example.org,2437588962,Kharagpur,Maharashtra,East,2022-03-10,Corporate
+CUST00305,Triya,Bains,Female,1983-02-07,prashadinaya@example.net,07278116476,Bangalore,Chhattisgarh,South,2025-11-19,Corporate
+CUST00306,Warhi,Dora,Male,1997-02-02,tshroff@example.com,8836409188,Ajmer,Bihar,South,2021-11-27,Premium
+CUST00307,Ekaja,Randhawa,Female,1995-05-02,egrover@example.net,07996518557,Secunderabad,Gujarat,East,2023-05-08,Premium
+CUST00308,Lipika,Loyal,Female,1996-04-23,somsaumya@example.net,+915181188587,Giridih,Rajasthan,North,2026-02-15,Premium
+CUST00309,Urvi,Tripathi,Male,1982-12-10,jgole@example.com,3203395863,Mumbai,Uttar Pradesh,South,2026-05-15,Premium
+CUST00310,Ati,Mani,Male,1973-10-02,tarawable@example.org,+919335469722,Bulandshahr,Madhya Pradesh,East,2023-02-23,Premium
+CUST00311,Chavvi,Wason,Male,1974-06-08,megha36@example.org,+910755642983,Dewas,Maharashtra,South,2024-11-12,Premium
+CUST00312,Hritik,Badami,Male,1994-07-28,pranavsoman@example.com,+911062819544,Bijapur,Kerala,North,2024-09-26,Corporate
+CUST00313,Brijesh,Singhal,Male,1997-05-30,naiduikshita@example.com,7509337035,Thane,Jharkhand,East,2022-11-03,Premium
+CUST00314,Suhani,Trivedi,Female,1974-07-29,turvi54@example.net,2789878029,Vellore,Bihar,South,2023-08-06,Corporate
+CUST00315,Ishita,Malhotra,Male,1993-05-06,lsavant@example.net,04008430973,Vasai-Virar,Himachal Pradesh,South,2023-05-03,Premium
+CUST00316,Gaurav,Mangat,Female,1965-12-18,cgola@example.net,+917060986359,Thanjavur,Chhattisgarh,South,2023-04-09,Premium
+CUST00317,Advik,Chokshi,Female,1979-05-02,upadhriti82@example.org,+917052337078,Sonipat,Nagaland,West,2023-10-05,Regular
+CUST00318,Balvan,Dhar,Male,2008-05-02,fchoudhary@example.com,0893104659,Bardhaman,Madhya Pradesh,West,2024-01-31,Regular
+CUST00319,Aishani,Wadhwa,Male,1981-11-17,ekavir09@example.net,03035435651,Panihati,West Bengal,North,2022-10-24,Premium
+CUST00320,Girish,Barad,Male,1966-09-17,ypadmanabhan@example.org,+913083338468,Eluru,Assam,East,2022-01-23,Corporate
+CUST00321,Nandini,Kamdar,Female,1965-07-24,adyasodhi@example.com,06051447248,Gudivada,Andhra Pradesh,South,2025-03-26,Regular
+CUST00322,Yashawini,Roy,Female,1976-05-05,pravel@example.net,+916668758912,Phusro,Manipur,North,2024-08-26,Corporate
+CUST00323,Ishaan,Pingle,Male,2001-08-14,lopavarghese@example.net,03476847075,Nangloi Jat,Jharkhand,North,2023-02-15,Premium
+CUST00324,Harini,Doshi,Male,1984-05-25,cnaik@example.net,08416211796,Silchar,Kerala,East,2024-04-14,Corporate
+CUST00325,Shivansh,Bora,Female,1977-02-12,fganesh@example.com,05005048477,Kota,Uttarakhand,East,2024-04-01,Corporate
+CUST00326,Rajeshri,Rastogi,Female,2000-04-09,ucchaldeshmukh@example.com,+917393132563,Bhubaneswar,Odisha,North,2024-01-27,Regular
+CUST00327,Baghyawati,Wason,Male,1997-05-11,jhaveriyadavi@example.net,04327140838,Ramagundam,Punjab,South,2026-05-30,Regular
+CUST00328,Zehaan,Dugal,Female,1993-12-29,yatin65@example.org,+912779500069,Warangal,Chhattisgarh,East,2025-07-30,Corporate
+CUST00329,Bishakha,Peri,Male,1970-10-29,mangatbhavika@example.com,+915638406224,Bongaigaon,Odisha,South,2023-10-25,Regular
+CUST00330,Varsha,Dhar,Male,1972-05-22,nitaradar@example.net,8110599123,Madhyamgram,Haryana,West,2025-07-28,Corporate
+CUST00331,Jackson,Sanghvi,Female,1971-07-21,prabhakarbaghyawati@example.com,00573995266,Durgapur,Telangana,North,2022-09-26,Regular
+CUST00332,Anamika,Mohanty,Male,1970-01-30,mbarman@example.org,02407470853,Jodhpur,Assam,West,2025-09-28,Premium
+CUST00333,Finn,Ratta,Female,1998-12-24,tchand@example.net,3203888304,Pune,Odisha,South,2022-02-17,Regular
+CUST00334,Isha,Rege,Male,1990-06-12,darsh16@example.com,04076908190,Raipur,Assam,South,2025-09-11,Corporate
+CUST00335,Anusha,Raju,Female,1979-11-18,chandekbal@example.org,+912807579250,Chandrapur,Bihar,North,2022-10-28,Regular
+CUST00336,Vamakshi,Dasgupta,Female,1993-11-22,dayamaisharaf@example.net,3202925546,Jammu,Kerala,North,2025-03-03,Corporate
+CUST00337,Shivansh,Divan,Male,1980-03-24,samimanan@example.org,5295607402,Guna,Gujarat,South,2022-12-10,Premium
+CUST00338,Champak,Kapadia,Female,1995-02-02,sneha84@example.net,+913886548614,Begusarai,Gujarat,East,2023-07-02,Premium
+CUST00339,Hemang,Mistry,Female,2006-07-31,vidhi38@example.net,9763595398,Patiala,Odisha,West,2022-02-17,Premium
+CUST00340,Pooja,Ramanathan,Female,1969-08-03,onivyas@example.net,00479664539,Rewa,Madhya Pradesh,East,2024-04-28,Premium
+CUST00341,Charan,Ramanathan,Male,1990-08-10,talwarkrisha@example.com,+918578541451,Arrah,Sikkim,East,2023-10-07,Corporate
+CUST00342,Jeevika,Seshadri,Male,1978-06-18,chaman62@example.org,+917583914470,Tezpur,Mizoram,West,2024-02-23,Premium
+CUST00343,Garima,Edwin,Male,2008-05-01,jmangat@example.org,+913253666922,Vijayanagaram,Karnataka,East,2023-12-26,Premium
+CUST00344,Nihal,Mangat,Female,1997-11-08,hritik45@example.net,+912191450400,Sri Ganganagar,Karnataka,West,2024-11-17,Premium
+CUST00345,Varenya,Vyas,Male,1970-01-10,robertsant@example.net,03833298029,Aizawl,Meghalaya,South,2024-09-30,Regular
+CUST00346,Eta,Krishna,Male,1990-08-17,rajata50@example.com,0035289413,Kurnool,Odisha,East,2024-02-02,Premium
+CUST00347,Lekha,Seshadri,Male,1972-05-02,jagdishpuri@example.com,01686097099,Anand,Telangana,West,2024-07-30,Corporate
+CUST00348,Aadhya,Apte,Male,1974-11-06,sthaman@example.com,5262069473,Gorakhpur,Manipur,West,2024-04-08,Regular
+CUST00349,Chakrika,Saxena,Female,1998-06-27,tanmayi28@example.com,+916380442448,Kollam,Uttarakhand,South,2024-12-25,Corporate
+CUST00350,Krisha,Lad,Female,1981-12-28,raiprisha@example.net,00554969816,Tiruchirappalli,Haryana,South,2025-11-20,Corporate
+CUST00351,Upkaar,Bajaj,Male,1984-11-12,umangtaneja@example.net,+912433442043,Mirzapur,Arunachal Pradesh,West,2022-05-22,Corporate
+CUST00352,Kavya,Uppal,Female,2006-02-23,zdutta@example.com,04702807705,Siwan,Arunachal Pradesh,South,2021-11-14,Regular
+CUST00353,Nidra,D’Alia,Female,1990-12-23,karpenandini@example.org,+912248617175,Bikaner,Gujarat,South,2025-02-19,Premium
+CUST00354,Anamika,Pradhan,Male,1978-02-06,mchoudhary@example.com,1114040040,Srinagar,Gujarat,East,2021-08-06,Corporate
+CUST00355,Laksh,Chauhan,Male,1974-08-19,karanbrinda@example.com,01728566442,Purnia,Assam,North,2022-05-13,Premium
+CUST00356,Harrison,Dayal,Male,2007-12-05,khuranalipika@example.net,05708058623,Rohtak,Kerala,North,2023-03-12,Premium
+CUST00357,Odika,Cheema,Male,1987-09-18,gapte@example.net,01164440073,Bhatpara,Tamil Nadu,West,2026-03-08,Regular
+CUST00358,Chandani,Khatri,Female,1971-03-24,xapte@example.net,04818122008,Panvel,Madhya Pradesh,West,2024-01-12,Regular
+CUST00359,Arjun,Muni,Male,2004-06-11,jagdishoommen@example.net,+915249063471,Hyderabad,Punjab,South,2026-07-03,Regular
+CUST00360,Ekanta,Bhattacharyya,Female,1990-06-09,radhika46@example.org,03170805550,Sirsa,Rajasthan,East,2025-12-07,Regular
+CUST00361,Waida,Modi,Female,1979-02-21,nilimavohra@example.com,8629424093,Sasaram,Goa,North,2025-03-08,Corporate
+CUST00362,Finn,Mannan,Female,1970-11-21,jkrish@example.com,+918594123349,Thane,Chhattisgarh,East,2023-10-23,Regular
+CUST00363,Damini,Suresh,Male,2008-07-19,singhalqabil@example.com,+917371663111,Bilaspur,Tamil Nadu,South,2025-11-28,Premium
+CUST00364,Kamya,Deo,Male,1989-03-19,ekala@example.org,06970663657,Surat,Haryana,West,2022-02-01,Regular
+CUST00365,Tamanna,De,Female,1982-09-10,abeer87@example.com,+912110017667,Ambarnath,Uttarakhand,East,2025-02-12,Regular
+CUST00366,Nicholas,Johal,Male,2007-04-04,egour@example.org,0005687776,Imphal,Assam,North,2022-04-13,Premium
+CUST00367,Nitara,Dani,Male,1982-04-14,bimalazachariah@example.org,03258759708,Guwahati,Uttar Pradesh,South,2026-05-06,Regular
+CUST00368,Hema,Taneja,Male,1983-02-16,qhora@example.org,+911298361931,Navi Mumbai,Punjab,South,2024-04-24,Premium
+CUST00369,Victor,Raman,Female,1979-06-27,arunimaram@example.com,6308289546,Bhind,Haryana,East,2023-05-15,Premium
+CUST00370,Amara,Dube,Male,1977-10-10,wsrinivasan@example.org,03662165463,Parbhani,Tripura,East,2025-10-30,Regular
+CUST00371,Yauvani,Upadhyay,Male,2003-01-25,aishanilal@example.org,9087596343,Mahbubnagar,Assam,North,2021-08-29,Regular
+CUST00372,Pooja,Acharya,Female,1978-08-10,ekbalvig@example.org,06779153790,Amritsar,Goa,East,2025-03-18,Corporate
+CUST00373,Gavin,Chadha,Female,1996-06-21,anamikakibe@example.com,6678695699,Anand,Kerala,West,2023-04-07,Premium
+CUST00374,Chanchal,Kakar,Male,1993-04-13,alka66@example.com,08700233749,Srinagar,Gujarat,East,2024-05-21,Regular
+CUST00375,Peter,Deshpande,Male,1988-06-02,sankarabeer@example.com,0759546969,Akola,Punjab,South,2022-02-12,Premium
+CUST00376,Indira,Raj,Female,1977-03-09,arajagopal@example.org,7539474730,Dharmavaram,Manipur,North,2024-03-03,Premium
+CUST00377,Devika,Modi,Male,2006-08-18,farhan08@example.org,3878978149,Vijayanagaram,Kerala,East,2025-11-25,Regular
+CUST00378,Chaitaly,Wali,Male,1971-03-08,ishani55@example.org,1662241060,Alwar,Mizoram,East,2023-10-04,Regular
+CUST00379,Aadhya,Bail,Female,1966-06-15,rajagopalanryan@example.com,07596181842,Buxar,Meghalaya,North,2025-07-25,Premium
+CUST00380,Eesha,Mammen,Female,1994-07-03,urishillapal@example.com,5361892721,Sasaram,Tripura,West,2022-03-30,Corporate
+CUST00381,Barkha,Mani,Female,2006-11-04,fmukhopadhyay@example.net,05177863783,Anand,Meghalaya,East,2023-05-13,Corporate
+CUST00382,Rudra,Subramanian,Female,1989-08-14,radhika16@example.net,01610604312,Salem,Uttarakhand,North,2025-10-09,Corporate
+CUST00383,Amruta,Karnik,Female,1976-05-18,advikguha@example.org,8667737059,Madurai,Uttar Pradesh,South,2022-08-24,Regular
+CUST00384,Chameli,Oommen,Female,1983-05-28,nvarughese@example.org,04419076655,Karawal Nagar,Gujarat,North,2024-04-28,Premium
+CUST00385,Yadavi,Maharaj,Female,1998-05-10,matthewwable@example.com,9361656461,Coimbatore,Goa,North,2023-02-13,Premium
+CUST00386,Ranveer,Chadha,Female,2005-10-02,utkarshsur@example.com,7157504390,Ranchi,Mizoram,North,2025-04-03,Regular
+CUST00387,Edhitha,Patil,Female,1986-05-21,falanbera@example.com,02908592637,Sasaram,Himachal Pradesh,North,2021-11-20,Regular
+CUST00388,Vedhika,Sundaram,Female,1985-06-27,tanaygopal@example.com,08412561858,Rampur,Rajasthan,West,2024-08-26,Regular
+CUST00389,Girik,Magar,Female,1989-04-14,birdivya@example.com,+911589486575,Mehsana,Uttar Pradesh,East,2025-02-07,Corporate
+CUST00390,Gavin,Arora,Female,2003-12-19,nagiaahana@example.com,4879068478,Karawal Nagar,Meghalaya,West,2022-06-14,Premium
+CUST00391,Nidhi,Dalal,Female,1984-02-22,advikwali@example.net,+915604032554,Jabalpur,West Bengal,West,2023-01-25,Premium
+CUST00392,Jacob,Thaman,Female,1996-03-06,ria40@example.org,+917331447775,Moradabad,Bihar,East,2022-06-08,Regular
+CUST00393,Janya,Yogi,Male,1980-12-26,saniprisha@example.com,+919358583716,Uluberia,Odisha,North,2025-06-04,Premium
+CUST00394,Isaac,Suri,Male,1977-09-11,megha54@example.com,+919007271046,Unnao,Bihar,North,2022-02-16,Corporate
+CUST00395,Dhruv,Sastry,Male,1997-05-05,ojani@example.net,02300094985,Alwar,Punjab,East,2024-09-18,Corporate
+CUST00396,Rudra,Sachdev,Female,1979-04-26,praneel54@example.com,09849406672,Shimla,Rajasthan,South,2021-08-24,Regular
+CUST00397,Aarav,Bose,Female,1978-12-15,dpalla@example.com,4964762126,Naihati,Tamil Nadu,West,2024-08-03,Regular
+CUST00398,Gauri,Dhillon,Female,1994-06-10,yamininarain@example.org,+914797105263,Bhatpara,West Bengal,North,2023-02-11,Corporate
+CUST00399,Hema,Soni,Male,2003-04-29,amairahanda@example.net,+910533892282,Kharagpur,Manipur,North,2022-08-08,Corporate
+CUST00400,Guneet,Sani,Female,1974-08-26,daniladli@example.net,+918814025210,Ludhiana,Himachal Pradesh,South,2025-06-19,Corporate
+CUST00401,Noah,Ramaswamy,Male,1981-01-30,saxenamichael@example.org,+910218739989,Lucknow,Jharkhand,North,2024-01-19,Corporate
+CUST00402,Joshua,Vora,Male,1971-10-31,krishnaprashad@example.com,08410103399,Vasai-Virar,Odisha,North,2023-11-25,Corporate
+CUST00403,Xalak,Borra,Female,1990-02-27,mekhala59@example.com,6803010227,Raipur,Andhra Pradesh,West,2024-10-27,Premium
+CUST00404,Balveer,Narayan,Female,1994-10-30,arunima87@example.org,9689081598,Bulandshahr,Jharkhand,East,2021-08-17,Regular
+CUST00405,Ikbal,Deol,Female,1975-11-10,thamanyash@example.org,0228276378,Amravati,Kerala,West,2024-06-26,Corporate
+CUST00406,Tamanna,Tella,Female,1984-11-11,behlganga@example.com,9261193764,Kamarhati,Odisha,North,2025-04-17,Corporate
+CUST00407,Yamini,Khosla,Female,1993-09-08,falgunidas@example.org,1993993673,Tenali,Himachal Pradesh,North,2024-09-24,Premium
+CUST00408,Anya,Dhar,Female,1995-12-28,mohinibajwa@example.org,7293438670,Medininagar,Himachal Pradesh,South,2023-10-22,Premium
+CUST00409,Fitan,Dhillon,Female,1978-09-21,pmitter@example.net,+913562821425,Tezpur,Haryana,West,2022-10-22,Premium
+CUST00410,Umang,Kalla,Female,1986-01-02,rchandra@example.org,+911870406121,Ranchi,Haryana,West,2024-01-04,Corporate
+CUST00411,Vidhi,Dass,Female,1982-03-08,karxavier@example.net,+918624943130,Jamalpur,Karnataka,South,2025-06-01,Regular
+CUST00412,Balhaar,Om,Female,1994-12-03,balparth@example.com,06438280609,New Delhi,West Bengal,East,2021-11-06,Corporate
+CUST00413,Gaurika,Soni,Male,2003-01-31,anmolgoswami@example.org,+915753124831,Mirzapur,Madhya Pradesh,East,2022-11-25,Regular
+CUST00414,Ojasvi,Sen,Female,1992-12-21,sdey@example.org,3549402453,Mehsana,Maharashtra,West,2022-11-24,Premium
+CUST00415,Utkarsh,Bhalla,Male,1981-12-06,kailad@example.com,08451195517,Tiruchirappalli,Assam,West,2022-04-26,Premium
+CUST00416,Baghyawati,Agate,Female,1989-03-28,xdayal@example.com,09127031446,South Dumdum,Telangana,North,2023-02-15,Regular
+CUST00417,Netra,Tailor,Male,1978-02-02,saxenageetika@example.com,3576009804,Ambarnath,Telangana,East,2024-08-01,Premium
+CUST00418,Pratyush,Mittal,Female,1971-07-30,ekaraj28@example.org,+912079524774,Rajkot,Gujarat,East,2024-08-22,Regular
+CUST00419,Chanchal,Sur,Female,2001-07-24,mallryan@example.org,0802396896,Durgapur,Bihar,West,2023-07-08,Regular
+CUST00420,Umang,Guha,Male,1995-05-07,qhegde@example.com,4013577314,Ichalkaranji,Punjab,North,2023-02-15,Corporate
+CUST00421,Chaaya,Doshi,Male,1993-09-21,rmody@example.org,3061800982,Nandyal,Telangana,North,2024-05-12,Premium
+CUST00422,Yashoda,Bajaj,Female,1977-05-28,daksh07@example.net,07210790883,Ballia,Haryana,East,2021-11-02,Regular
+CUST00423,Deepa,Iyengar,Female,1989-02-04,pooja30@example.net,09047170449,Bhilai,Rajasthan,South,2026-04-01,Regular
+CUST00424,Sara,Bir,Female,2006-06-07,paninikurian@example.net,8408963724,Guna,Tamil Nadu,North,2026-02-23,Regular
+CUST00425,Nathaniel,Talwar,Female,2002-10-20,tbabu@example.org,5049657982,Ambarnath,Rajasthan,South,2023-04-16,Regular
+CUST00426,Lucky,Choudhary,Male,1979-07-01,garahemangini@example.com,7999646587,Khandwa,Telangana,East,2026-06-29,Premium
+CUST00427,Jeet,Hari,Female,1997-08-20,unni54@example.net,9064805188,Indore,Maharashtra,East,2025-10-13,Corporate
+CUST00428,Chaman,Sundaram,Male,1970-07-08,advikdasgupta@example.net,+912919482529,Anantapur,Goa,North,2022-06-18,Corporate
+CUST00429,Garima,Anand,Female,1993-07-19,nagianay@example.net,6245074776,Haldia,Andhra Pradesh,North,2025-07-01,Premium
+CUST00430,Wakeeta,Bahri,Female,1986-02-03,umalhotra@example.org,0203161919,Firozabad,Kerala,West,2025-02-02,Corporate
+CUST00431,Dayita,Sachar,Female,1976-09-09,wardashetty@example.com,00377251739,Gopalpur,Meghalaya,North,2024-02-06,Corporate
+CUST00432,Divya,Kothari,Female,1997-01-28,frederickmurthy@example.net,+915665221322,Kollam,Andhra Pradesh,North,2021-08-08,Corporate
+CUST00433,Zilmil,Dhaliwal,Male,2002-05-21,manbir91@example.com,03455372115,Serampore,Chhattisgarh,East,2021-10-24,Regular
+CUST00434,Devansh,Bora,Female,1979-11-02,wperi@example.net,+914068412176,Howrah,Assam,West,2026-02-28,Corporate
+CUST00435,Gaurav,Mann,Female,1967-10-11,nitaraganguly@example.org,+910794890699,Unnao,Kerala,North,2021-08-13,Corporate
+CUST00436,Balvan,Prabhakar,Female,1996-01-18,vasana59@example.net,+911633177764,Aligarh,Madhya Pradesh,West,2023-04-14,Regular
+CUST00437,Rudra,Tandon,Male,2000-09-28,dalaja57@example.net,4349192703,Madhyamgram,Odisha,East,2022-09-07,Corporate
+CUST00438,Joshua,Ram,Male,1995-08-05,ttata@example.net,+913950246476,Thane,Chhattisgarh,North,2021-08-14,Corporate
+CUST00439,Gaurang,Sarraf,Female,2001-07-25,anay59@example.org,02814543959,Bhiwani,Manipur,South,2024-01-11,Premium
+CUST00440,Harshil,Ghose,Male,1979-12-18,bahadurjit03@example.com,+919840393849,Sirsa,Nagaland,South,2023-07-14,Premium
+CUST00441,Aarnav,Saha,Male,1975-05-30,karimanya@example.net,03770418300,Vijayanagaram,Punjab,North,2025-04-25,Regular
+CUST00442,Leena,Master,Female,1968-05-04,anamika94@example.com,+910614575730,Jaipur,Goa,West,2022-07-29,Premium
+CUST00443,Manya,Dubey,Female,1988-12-21,ppalan@example.com,09742997996,Aizawl,Punjab,South,2023-10-30,Regular
+CUST00444,Mitesh,Rai,Male,1976-06-11,sahaishaan@example.net,07510684957,Bikaner,Manipur,North,2023-06-19,Premium
+CUST00445,Amara,Bajwa,Male,1977-10-26,calebminhas@example.net,+913515715155,Purnia,Maharashtra,South,2023-11-22,Regular
+CUST00446,Ryan,Khare,Female,1995-01-16,cmandal@example.net,05939764783,Bhilai,Meghalaya,East,2024-08-23,Regular
+CUST00447,Vyanjana,Balakrishnan,Male,1989-11-12,rajeshrisankar@example.net,07899846323,Udaipur,Nagaland,West,2023-11-26,Corporate
+CUST00448,Kamala,Ramachandran,Female,1981-06-04,sdhar@example.net,04260273461,Kishanganj,Odisha,East,2022-04-02,Premium
+CUST00449,Shivansh,Barman,Female,1970-01-14,qdey@example.net,02204663529,Nandyal,Tripura,North,2024-02-25,Corporate
+CUST00450,Anita,Bail,Male,1983-01-18,gseshadri@example.org,+914035247490,Rajkot,Jharkhand,West,2026-04-04,Corporate
+CUST00451,Isaiah,Gopal,Male,2006-10-03,kashvibalakrishnan@example.net,09868330455,Ghaziabad,Uttarakhand,North,2023-05-01,Corporate
+CUST00452,Wyatt,Misra,Male,2000-12-26,kbuch@example.org,02704883897,Kirari Suleman Nagar,West Bengal,West,2023-03-05,Regular
+CUST00453,Frederick,Kant,Female,2006-03-26,zchauhan@example.com,07261837243,Ludhiana,Maharashtra,South,2024-07-20,Premium
+CUST00454,Aachal,Kar,Male,1983-04-20,umani@example.org,4677802087,Lucknow,Sikkim,South,2022-05-26,Premium
+CUST00455,Nitesh,Rajagopalan,Male,1973-08-06,ojas16@example.net,7505769046,Rohtak,Meghalaya,South,2021-07-21,Premium
+CUST00456,Bina,Morar,Female,1979-10-18,ekajamistry@example.net,+917498744975,Barasat,West Bengal,North,2023-02-28,Premium
+CUST00457,Shivani,Dara,Female,1995-10-05,khannagaurav@example.net,6400123387,Panipat,Manipur,North,2021-11-20,Premium
+CUST00458,Dipta,Saxena,Male,1996-01-06,vansha19@example.net,06485171302,Udaipur,Andhra Pradesh,East,2024-05-25,Regular
+CUST00459,Radha,Sachar,Male,2005-10-12,psarin@example.com,5923984246,Kavali,Rajasthan,North,2021-07-21,Corporate
+CUST00460,Urvi,Warrior,Female,2006-05-29,mugdha49@example.net,5775466279,Buxar,Tamil Nadu,East,2026-06-22,Corporate
+CUST00461,Yashica,Ben,Female,1965-07-22,gbhandari@example.net,+916707463568,Anand,Manipur,South,2022-01-28,Regular
+CUST00462,Jacob,Varughese,Female,2004-04-11,jai30@example.com,+914877109261,Thiruvananthapuram,Sikkim,East,2022-12-03,Regular
+CUST00463,Neel,Sahota,Female,1966-02-28,mjoshi@example.com,01240397781,Dhule,Odisha,West,2023-07-08,Regular
+CUST00464,Yoshita,Raj,Female,1966-10-28,tristanhalder@example.org,09389289335,Bhusawal,Nagaland,North,2024-07-17,Regular
+CUST00465,Brijesh,Sanghvi,Female,1999-06-07,girishshenoy@example.com,+917799678262,Dharmavaram,Punjab,North,2022-01-06,Regular
+CUST00466,Omaja,Mandal,Male,1986-07-03,ipai@example.com,09802275770,Bhilai,Haryana,East,2026-02-20,Premium
+CUST00467,Omisha,Agarwal,Male,2001-08-26,panini30@example.com,05846212759,Navi Mumbai,Andhra Pradesh,South,2024-04-30,Premium
+CUST00468,Irya,Mahajan,Female,1980-03-12,vbarad@example.org,+911357109249,Maheshtala,Jharkhand,East,2025-11-27,Regular
+CUST00469,Zaitra,Shukla,Male,1966-06-01,bariaekbal@example.net,1307922561,Raichur,Sikkim,North,2021-08-08,Regular
+CUST00470,Tanay,Dhingra,Female,1988-02-16,srinivasansimon@example.org,08920191031,Arrah,West Bengal,West,2025-04-19,Premium
+CUST00471,Lakshit,Sahota,Male,1978-04-19,eluthra@example.net,02569426078,Kolhapur,Maharashtra,West,2022-09-27,Regular
+CUST00472,Osha,Yogi,Male,1980-06-16,ltailor@example.org,07434444345,Jaipur,Odisha,East,2025-03-01,Corporate
+CUST00473,Jagat,Mukherjee,Female,2000-07-04,ohegde@example.com,8686251734,Bikaner,Sikkim,West,2022-07-17,Regular
+CUST00474,Siya,Lala,Female,1987-05-02,mittalunnati@example.org,+919813180409,Raurkela Industrial Township,Andhra Pradesh,South,2026-03-04,Regular
+CUST00475,Tanvi,Sampath,Male,1971-03-04,kiaansidhu@example.com,00402309276,North Dumdum,Chhattisgarh,North,2024-12-13,Premium
+CUST00476,Farhan,Arya,Female,1979-07-06,sdutt@example.org,+912083486255,Thane,Sikkim,South,2021-09-23,Regular
+CUST00477,Neel,Tata,Male,1981-07-20,rudra67@example.com,7629524819,Shimla,Karnataka,East,2021-09-26,Corporate
+CUST00478,Chandresh,Seth,Female,1973-02-25,bathaashi@example.com,5991799084,Kolhapur,Andhra Pradesh,North,2023-02-10,Premium
+CUST00479,Janya,Merchant,Female,1976-07-29,godacharvi@example.net,1939084259,Kurnool,Punjab,North,2025-12-15,Premium
+CUST00480,Yagnesh,Raval,Male,2005-01-23,krishnanisha@example.com,0987137104,Meerut,Nagaland,East,2023-01-30,Premium
+CUST00481,Bachittar,Ghose,Female,1981-02-03,wridesh56@example.com,9487930512,Bardhaman,Rajasthan,South,2026-02-16,Corporate
+CUST00482,Panini,Gade,Female,1993-11-03,bpatla@example.net,+919097207967,Yamunanagar,Kerala,North,2024-11-17,Regular
+CUST00483,Osha,Iyer,Male,1982-04-13,bavarehaan@example.org,1259679917,Ahmednagar,Nagaland,South,2023-10-01,Premium
+CUST00484,Libni,Apte,Male,1983-08-17,davidnaidu@example.net,+918610002558,Visakhapatnam,Gujarat,West,2023-08-16,Regular
+CUST00485,Nirja,Singhal,Female,1991-04-27,riatoor@example.net,+918941811910,Karimnagar,West Bengal,South,2023-09-16,Corporate
+CUST00486,Manbir,Bumb,Male,1969-10-23,tarak84@example.net,03949649779,Malegaon,Sikkim,West,2021-09-19,Regular
+CUST00487,Azaan,Mangal,Male,2001-01-25,yohannanpratyush@example.org,6432287517,Cuttack,Jharkhand,South,2026-04-07,Regular
+CUST00488,Sneha,Kohli,Male,2001-08-05,taraaarush@example.net,3603630740,Tenali,Madhya Pradesh,East,2025-06-19,Premium
+CUST00489,Aachal,Lalla,Female,1998-09-23,kalaparikh@example.com,3346435626,Eluru,Tamil Nadu,South,2023-06-26,Premium
+CUST00490,Yagnesh,Soman,Male,1986-12-20,fkade@example.net,+918752254875,Tadipatri,Punjab,North,2024-11-28,Regular
+CUST00491,Jairaj,Bhattacharyya,Female,1994-03-11,kgoda@example.net,09616490610,Darbhanga,Telangana,East,2024-10-01,Corporate
+CUST00492,Daksh,Lata,Female,1994-04-28,devanshbawa@example.net,03502245660,Ulhasnagar,Assam,North,2022-04-02,Regular
+CUST00493,Farhan,Parsa,Female,1981-11-16,deshmukhfalguni@example.net,7776277434,Ramagundam,Chhattisgarh,West,2023-10-23,Corporate
+CUST00494,Vinaya,Hayre,Male,2004-09-12,ridhichar@example.net,1113350613,Chandrapur,Himachal Pradesh,West,2023-10-30,Premium
+CUST00495,Zashil,Mitra,Female,1994-08-17,ikbalperi@example.com,+915346693991,Karimnagar,Jharkhand,South,2021-08-04,Regular
+CUST00496,Daniel,Sood,Female,1997-04-24,nsengupta@example.net,01179805159,Khora ,Gujarat,South,2023-09-10,Regular
+CUST00497,Aarush,Wali,Male,1999-09-19,xtata@example.net,+918835540158,Amritsar,Sikkim,East,2024-12-25,Corporate
+CUST00498,Anthony,Venkataraman,Male,2004-07-02,devanshmangat@example.net,07031254569,Kirari Suleman Nagar,Tamil Nadu,East,2022-03-05,Premium
+CUST00499,Ria,Issac,Male,2008-06-06,agopal@example.net,6817327130,Berhampore,Himachal Pradesh,North,2025-09-27,Regular
+CUST00500,Rajeshri,Kale,Male,1973-09-13,advika45@example.com,+916335761296,Muzaffarpur,Tamil Nadu,East,2023-09-07,Regular
+CUST00501,Mugdha,Samra,Male,2004-12-19,harishbhat@example.com,+910318317448,Durgapur,Arunachal Pradesh,South,2024-09-04,Corporate
+CUST00502,Hritik,Bhat,Female,1965-09-22,rkapur@example.org,9981877024,Karnal,Gujarat,South,2025-04-29,Premium
+CUST00503,Manan,Mitra,Male,1986-02-17,dalajavarty@example.net,05196204437,Nizamabad,Karnataka,North,2023-06-25,Regular
+CUST00504,Ethan,Sarma,Female,1983-08-26,harishprakash@example.net,+919661143332,Miryalaguda,Tamil Nadu,East,2023-05-03,Premium
+CUST00505,Vihaan,Venkatesh,Male,1987-10-09,yutikapillai@example.net,4806414973,Allahabad,Himachal Pradesh,East,2023-05-09,Corporate
+CUST00506,Aarnav,Mahajan,Female,1973-08-18,nilima02@example.org,+918921747772,Shahjahanpur,Tamil Nadu,East,2023-07-16,Premium
+CUST00507,Kabir,Mane,Male,1976-02-11,guneetanand@example.org,7117847210,Nagpur,Tamil Nadu,South,2022-06-16,Regular
+CUST00508,Vanya,Patla,Male,1997-04-12,kamdarsneha@example.net,00616088961,Pallavaram,West Bengal,South,2023-03-21,Premium
+CUST00509,Idika,Brahmbhatt,Male,1994-09-19,psingh@example.org,09743666022,Dibrugarh,Meghalaya,North,2022-11-24,Corporate
+CUST00510,Daksh,Seth,Female,1998-01-28,fbatra@example.net,8020990080,Bokaro,Andhra Pradesh,West,2024-05-19,Premium
+CUST00511,Anya,Agrawal,Male,2004-03-30,qgopal@example.com,+919540375184,Begusarai,Bihar,South,2023-08-06,Premium
+CUST00512,Pahal,Cheema,Female,1991-12-12,onveernigam@example.com,08378752693,Burhanpur,Chhattisgarh,South,2026-01-02,Corporate
+CUST00513,Manan,Mohan,Male,1979-08-02,sachi91@example.com,+910433596371,Kolhapur,Meghalaya,West,2024-07-10,Corporate
+CUST00514,Chatresh,Dani,Female,1966-02-16,kondaomya@example.org,7190180715,Salem,Telangana,South,2022-04-22,Regular
+CUST00515,Samesh,Wali,Female,1983-09-03,gsaxena@example.org,+918855200070,Jalna,Kerala,East,2025-03-01,Regular
+CUST00516,Amrita,Gulati,Female,1978-02-27,ekantika87@example.com,+913126516501,Ajmer,Telangana,North,2022-05-18,Regular
+CUST00517,Ekansh,Chokshi,Female,2002-03-31,aringrewal@example.org,09013691141,Jalgaon,Uttar Pradesh,East,2023-01-01,Premium
+CUST00518,Xiti,Arya,Male,2001-09-22,dakshagole@example.net,07498723426,Firozabad,Goa,East,2023-02-10,Corporate
+CUST00519,Bhavika,Parsa,Female,1968-10-08,yadavi69@example.org,02083572470,Raurkela Industrial Township,Chhattisgarh,South,2023-11-02,Corporate
+CUST00520,Xavier,Dass,Female,1975-02-17,waidamunshi@example.com,+913610083051,Madurai,Chhattisgarh,West,2025-03-09,Corporate
+CUST00521,Oliver,Tripathi,Male,1987-08-10,gangulyyahvi@example.net,+911850928941,Thane,Maharashtra,West,2022-11-13,Regular
+CUST00522,Anay,Srinivasan,Female,1984-02-04,eta46@example.net,+913763929351,Muzaffarpur,Nagaland,North,2021-11-11,Premium
+CUST00523,Yauvani,Pal,Female,1985-06-09,laksh99@example.org,9485796229,Vadodara,Himachal Pradesh,East,2023-06-16,Regular
+CUST00524,Ekbal,Raman,Male,1995-08-07,chamelimenon@example.com,0614791442,Tumkur,Jharkhand,East,2025-03-03,Premium
+CUST00525,Teerth,Pradhan,Male,1971-06-27,indaliamble@example.net,4587410824,Etawah,Punjab,East,2021-10-16,Premium
+CUST00526,Dalaja,Jani,Female,1974-10-14,dnadig@example.net,03760461100,Hapur,Punjab,East,2022-10-04,Corporate
+CUST00527,Tejas,Saran,Male,1995-08-21,owen47@example.com,7684338513,Mumbai,Sikkim,West,2021-09-12,Regular
+CUST00528,Rohan,Sawhney,Female,1981-04-21,chandrandhingra@example.net,+919856181125,Deoghar,Andhra Pradesh,North,2023-12-02,Regular
+CUST00529,Arya,Sane,Female,1987-04-22,aarnavviswanathan@example.net,09678082749,Aurangabad,Karnataka,South,2026-03-25,Regular
+CUST00530,Aryan,Savant,Male,1973-04-24,oeshithakur@example.org,+919071640270,Maheshtala,Kerala,South,2025-08-19,Premium
+CUST00531,Pranav,Tailor,Male,1970-03-01,tbhalla@example.com,05777493775,Muzaffarpur,Kerala,West,2022-01-22,Corporate
+CUST00532,Tristan,Mohanty,Male,1977-08-16,vaishnavi37@example.net,9979141185,Purnia,Karnataka,North,2023-01-22,Premium
+CUST00533,Zinal,Lanka,Male,2002-02-20,dearya@example.org,04845090535,Belgaum,Punjab,West,2025-08-06,Premium
+CUST00534,Jeremiah,Amble,Female,1999-07-20,wakeeta03@example.com,0653218160,Thrissur,Punjab,East,2024-08-18,Corporate
+CUST00535,Aayush,Gola,Male,1999-07-18,banikzinal@example.net,01964634523,Nangloi Jat,Haryana,East,2022-10-18,Premium
+CUST00536,Manthan,Kaur,Male,1973-10-18,ysura@example.org,+914621074655,Katni,Haryana,South,2025-05-29,Premium
+CUST00537,Shaurya,Parekh,Male,1986-10-24,alexandersagar@example.com,6455083198,Kolhapur,Uttarakhand,East,2021-12-01,Regular
+CUST00538,Girish,Mody,Male,1997-07-20,ikant@example.org,4232547329,Bhalswa Jahangir Pur,Mizoram,North,2026-06-24,Corporate
+CUST00539,Raghav,Gulati,Female,1997-12-18,kvarma@example.org,5249046561,Bikaner,Haryana,West,2022-06-06,Premium
+CUST00540,Shravya,Goswami,Male,1984-01-24,xsethi@example.com,+911241334658,Akola,Tripura,North,2023-06-25,Regular
+CUST00541,Chaitaly,Sastry,Male,1999-05-21,dasguptahemangini@example.com,1211657951,Jamalpur,Tamil Nadu,East,2023-12-21,Regular
+CUST00542,Vasudha,Khurana,Male,1976-09-27,ekansh79@example.com,00093972363,Jalgaon,Assam,North,2024-11-12,Corporate
+CUST00543,Veda,Ramesh,Male,2008-04-24,abdulvarghese@example.com,2678085431,Jehanabad,Manipur,South,2025-06-26,Premium
+CUST00544,Isaiah,Kala,Male,2006-10-10,guptaimaran@example.org,09666578192,Tirupati,Meghalaya,North,2022-01-25,Regular
+CUST00545,Pahal,Keer,Female,1994-03-12,bakhshi82@example.net,+919676605279,Ramgarh,West Bengal,West,2024-11-26,Corporate
+CUST00546,Karan,Bhardwaj,Female,2002-10-18,zaid38@example.net,8442686430,Ambala,Punjab,West,2022-08-29,Corporate
+CUST00547,Bhavya,Sami,Female,1970-07-03,bhardwajojas@example.org,7898540855,Panchkula,Uttarakhand,West,2025-05-04,Premium
+CUST00548,Hiral,Nagy,Male,1970-10-04,bkhanna@example.org,3409188378,Ramagundam,Uttarakhand,East,2024-05-14,Premium
+CUST00549,Janani,Iyengar,Female,1976-05-04,vsetty@example.org,00912420491,Bidhannagar,Andhra Pradesh,North,2021-08-26,Corporate
+CUST00550,Chanchal,Dara,Male,1992-11-17,sodhichameli@example.net,9092102869,Firozabad,Sikkim,West,2023-08-23,Premium
+CUST00551,Utkarsh,Dani,Female,1981-11-09,ekajaarya@example.com,04233399593,Davanagere,Andhra Pradesh,West,2025-02-19,Corporate
+CUST00552,Joshua,Thakkar,Female,1977-08-09,zissac@example.org,+916256755812,Bhusawal,Rajasthan,West,2021-09-04,Corporate
+CUST00553,Jeremiah,Gera,Female,1983-03-13,vlala@example.net,+917684776613,Tadepalligudem,West Bengal,East,2025-02-25,Premium
+CUST00554,Jhalak,Goel,Female,1981-06-15,ishani81@example.com,+914492753304,Hapur,Jharkhand,North,2026-02-13,Corporate
+CUST00555,Kritika,Pillai,Male,1976-09-29,kadakiazaitra@example.org,0199996781,Dehri,Rajasthan,South,2022-10-31,Corporate
+CUST00556,Upma,Tara,Female,1979-09-27,reddyrehaan@example.org,09143259623,Suryapet,Rajasthan,South,2026-04-14,Regular
+CUST00557,Anjali,Balakrishnan,Male,1987-08-28,zachariahekalinga@example.com,05566943433,Udaipur,Chhattisgarh,West,2024-03-08,Corporate
+CUST00558,Upadhriti,Ramaswamy,Male,1997-10-10,isawhney@example.com,8970831577,Nandyal,Manipur,South,2021-12-09,Premium
+CUST00559,Bimala,Bassi,Male,2006-12-08,yugbhargava@example.com,07103891672,Aizawl,Uttar Pradesh,North,2022-06-04,Premium
+CUST00560,Tarak,Kaur,Female,1966-12-07,wyattsrinivasan@example.com,+918384710103,Sambhal,Gujarat,South,2023-04-05,Premium
+CUST00561,Chakradev,Setty,Female,1980-04-06,balraghav@example.net,00241720317,Thanjavur,Rajasthan,South,2024-05-02,Premium
+CUST00562,Naveen,Patel,Male,1999-07-29,goswamijagdish@example.com,08229792290,Ambarnath,Himachal Pradesh,West,2021-08-24,Corporate
+CUST00563,Qabil,Gade,Male,1970-06-01,arjungola@example.net,09852414760,Nashik,Madhya Pradesh,West,2025-02-12,Corporate
+CUST00564,Nathaniel,Bera,Female,1974-07-27,balakrishnanbanjeet@example.net,1511222501,Tiruvottiyur,Manipur,East,2025-09-12,Regular
+CUST00565,Yahvi,Mistry,Male,1981-08-07,gchatterjee@example.com,00463763235,Allahabad,Assam,East,2025-09-09,Premium
+CUST00566,Zayyan,Vohra,Male,2007-01-03,raghav96@example.org,4807909798,Kharagpur,Punjab,West,2025-08-07,Premium
+CUST00567,Januja,Dewan,Male,1973-04-18,aashi89@example.org,9759231056,Chinsurah,Arunachal Pradesh,East,2022-02-06,Regular
+CUST00568,Charan,Loke,Female,1975-03-27,nchandra@example.net,+912239826988,Chandrapur,Manipur,East,2024-03-30,Regular
+CUST00569,Urishilla,Bajaj,Male,1991-04-23,cshroff@example.com,04321847289,Mehsana,Punjab,South,2024-05-13,Regular
+CUST00570,Advika,Ramesh,Male,1988-05-28,wkarnik@example.com,+914694209390,Barasat,Uttarakhand,East,2025-12-07,Regular
+CUST00571,Suhani,Vala,Male,1966-05-09,vidhi26@example.net,08818066728,Udaipur,Uttarakhand,West,2024-01-25,Corporate
+CUST00572,Oliver,Hari,Female,1982-07-12,anthonybrahmbhatt@example.com,7624409021,Durg,Goa,North,2024-10-14,Premium
+CUST00573,Kritika,Das,Male,1981-04-28,brijeshvala@example.net,+914977693575,Ranchi,Tripura,South,2024-06-18,Corporate
+CUST00574,Jalsa,Kothari,Female,1997-08-21,chandrawishi@example.net,+913896580256,Raurkela Industrial Township,Chhattisgarh,East,2025-05-20,Premium
+CUST00575,Kamya,Lall,Male,2004-05-15,kkant@example.com,+919236183948,Surat,West Bengal,South,2023-09-22,Regular
+CUST00576,Adweta,Sheth,Male,1990-02-04,wbasak@example.com,8267758553,Siliguri,Haryana,West,2026-07-17,Premium
+CUST00577,Lipika,Barad,Female,1999-04-28,ssagar@example.org,+914324968864,Chandigarh,Maharashtra,South,2022-05-11,Corporate
+CUST00578,Hiral,Cheema,Male,1997-07-28,venkataramanjai@example.com,+912107322982,Jalandhar,Gujarat,North,2023-04-02,Regular
+CUST00579,Charita,Brahmbhatt,Female,2008-05-15,aradhana11@example.org,+916998563367,Aurangabad,Odisha,North,2024-06-14,Premium
+CUST00580,Teerth,Sibal,Male,1967-10-11,balhaarmerchant@example.net,+910645660217,Warangal,Sikkim,East,2021-09-13,Corporate
+CUST00581,Anika,Din,Female,1969-04-16,rachanapall@example.org,1242306102,Nagpur,Odisha,North,2025-04-18,Regular
+CUST00582,Prisha,Puri,Male,2007-01-19,vrishtikalita@example.net,+913759569774,Chandrapur,Bihar,South,2024-03-08,Corporate
+CUST00583,Rushil,Guha,Male,2007-09-02,ekantikachoudhry@example.org,8311986426,Naihati,Jharkhand,East,2026-07-08,Premium
+CUST00584,Jack,Mane,Female,1991-01-17,frado52@example.net,+911274175783,Muzaffarpur,Madhya Pradesh,West,2025-01-31,Premium
+CUST00585,Guneet,Prasad,Male,2001-06-03,garima50@example.org,1918293364,Morbi,Assam,North,2022-11-18,Premium
+CUST00586,Faris,Khare,Female,2002-11-30,samratarak@example.net,8396499371,Raurkela Industrial Township,Sikkim,South,2023-10-24,Premium
+CUST00587,Yash,Chandra,Female,1999-12-11,harinipalan@example.org,+915215657638,Rajahmundry,Sikkim,East,2024-05-02,Corporate
+CUST00588,Pushti,Zacharia,Female,1979-01-03,vihaan43@example.net,08497385316,Davanagere,Arunachal Pradesh,South,2024-05-20,Premium
+CUST00589,Eesha,Chawla,Male,1995-10-28,joshua29@example.org,6355635586,Bhagalpur,Tripura,South,2022-01-17,Premium
+CUST00590,Nikita,Arya,Female,1966-03-22,diptahora@example.org,09960340428,Mangalore,Karnataka,South,2024-07-13,Regular
+CUST00591,Nihal,Bhardwaj,Female,1976-05-06,mbobal@example.org,0233125466,Bikaner,Telangana,East,2022-08-26,Regular
+CUST00592,Jeremiah,Doctor,Female,1993-03-24,kamya70@example.net,07904768846,Allahabad,West Bengal,North,2021-07-31,Premium
+CUST00593,Abhimanyu,Sharma,Male,1988-04-24,faris89@example.org,+918923787041,Rajkot,Rajasthan,West,2024-04-12,Premium
+CUST00594,Odika,Khalsa,Female,2002-03-22,kantwriddhish@example.org,1772958686,Haldia,Assam,East,2026-06-03,Regular
+CUST00595,Vedant,Khalsa,Female,1977-03-07,chameliwason@example.com,01615066655,Tenali,Madhya Pradesh,West,2021-09-24,Premium
+CUST00596,Ladli,Mangat,Male,1974-01-07,groverjyoti@example.com,9931420150,Siliguri,Himachal Pradesh,North,2022-06-09,Corporate
+CUST00597,Ronith,Muni,Male,1973-06-16,raochampak@example.org,07955133472,Bhubaneswar,Arunachal Pradesh,North,2023-10-02,Regular
+CUST00598,Urishilla,Devan,Male,1968-09-01,lucky65@example.org,+913783287314,Singrauli,Meghalaya,North,2022-10-20,Regular
+CUST00599,Urvashi,Prashad,Male,1965-11-12,madandominic@example.com,01615333383,Tiruppur,Arunachal Pradesh,South,2024-10-14,Premium
+CUST00600,Triveni,Luthra,Male,1970-07-13,mmadan@example.com,+918395635575,Aligarh,Tamil Nadu,South,2022-09-19,Premium
+CUST00601,Pratyush,Kalita,Female,1976-08-05,wwable@example.org,+915564778660,Solapur,Odisha,North,2024-06-01,Regular
+CUST00602,Charvi,Taneja,Male,1985-01-03,dnatarajan@example.com,7263612948,Berhampore,Goa,North,2026-01-03,Regular
+CUST00603,Yagnesh,Varkey,Male,1996-05-14,bahadurjitpillay@example.net,03620427861,Surendranagar Dudhrej,Meghalaya,North,2024-08-09,Premium
+CUST00604,Faris,Saha,Male,1989-04-01,saksham96@example.org,+910753099681,Jaunpur,Meghalaya,North,2022-07-10,Corporate
+CUST00605,Nitara,Tripathi,Female,1974-04-09,msrivastava@example.com,6909011262,Dehradun,Tripura,North,2021-11-28,Premium
+CUST00606,Pranit,De,Male,2003-12-29,sastrykiaan@example.com,+917378973288,Muzaffarnagar,Mizoram,South,2024-05-12,Premium
+CUST00607,Wyatt,Ramesh,Male,1992-03-25,pnarayanan@example.com,3099187400,Bilaspur,Andhra Pradesh,West,2023-12-09,Corporate
+CUST00608,Yagnesh,Pal,Male,2004-05-09,krishnapatla@example.org,1294917951,Noida,Sikkim,West,2023-04-14,Regular
+CUST00609,Manthan,Hegde,Female,1985-11-02,lakshit71@example.org,01304556454,Kishanganj,Kerala,West,2022-04-02,Corporate
+CUST00610,Yashawini,Shankar,Female,1972-10-10,ovaidya@example.com,+912369628026,Bhubaneswar,Jharkhand,West,2025-04-21,Regular
+CUST00611,Omaja,Chand,Male,2003-03-16,falak30@example.com,05843962364,Anand,Meghalaya,West,2023-09-06,Corporate
+CUST00612,Oeshi,Saha,Female,1983-01-09,chadhawridesh@example.net,02788516786,Arrah,Uttar Pradesh,North,2022-12-05,Corporate
+CUST00613,Alka,Wali,Male,1984-01-05,jasondass@example.com,05757444758,Motihari,Punjab,East,2022-10-27,Premium
+CUST00614,Vyanjana,Kunda,Female,1989-03-24,urajagopalan@example.org,+919656703325,Latur,Uttar Pradesh,East,2021-11-06,Regular
+CUST00615,Vasana,Char,Female,1977-08-11,wyatt46@example.com,+911215080465,Siliguri,Himachal Pradesh,South,2025-11-03,Premium
+CUST00616,Mitali,Tripathi,Female,1966-01-01,ksahota@example.net,+917981485088,Pondicherry,Kerala,North,2026-07-09,Corporate
+CUST00617,Bhavani,Raghavan,Female,1986-10-24,janyapai@example.net,0233643349,Chandrapur,Uttarakhand,South,2024-04-02,Corporate
+CUST00618,Pahal,Thaman,Male,1967-04-02,jlala@example.com,01620770754,Rampur,Haryana,North,2022-07-19,Regular
+CUST00619,Bhanumati,Basu,Female,1981-04-04,isaiahmutti@example.net,3053058434,Katni,Maharashtra,South,2026-01-29,Premium
+CUST00620,Owen,Bala,Male,1979-07-02,aachal78@example.org,00982384558,Eluru,Telangana,West,2023-08-12,Regular
+CUST00621,Hitesh,Chakraborty,Female,1982-02-19,bhatiagirik@example.com,4526791117,Thane,Assam,West,2023-10-09,Regular
+CUST00622,Aarnav,Bedi,Female,1981-12-19,kundabrinda@example.com,4580153483,Begusarai,Meghalaya,West,2025-05-14,Corporate
+CUST00623,Aarnav,Lall,Female,1970-03-19,dev71@example.com,08758697514,Malegaon,Himachal Pradesh,East,2022-09-08,Regular
+CUST00624,Hema,Tank,Male,1972-06-11,unnatikapadia@example.org,8298912975,Satara,Gujarat,South,2022-02-23,Premium
+CUST00625,Jeremiah,Sahni,Female,1985-07-31,pbajaj@example.net,02548735824,Kochi,Rajasthan,South,2022-04-02,Regular
+CUST00626,Priya,Pandya,Male,1981-07-24,wagledivya@example.net,04686714338,Thiruvananthapuram,Maharashtra,South,2023-07-29,Regular
+CUST00627,Ucchal,Swaminathan,Female,1989-09-05,libni37@example.net,0081355144,Jorhat,Sikkim,South,2023-02-18,Regular
+CUST00628,Aarnav,Chopra,Female,1992-11-04,yashmunshi@example.org,8785740977,Buxar,Jharkhand,East,2022-07-30,Regular
+CUST00629,Vansha,Tata,Female,1992-05-21,lgoel@example.org,+919215055119,Darbhanga,Bihar,East,2023-05-28,Premium
+CUST00630,Agastya,Tata,Female,1996-04-02,godanathan@example.net,+910397601424,Ramagundam,Meghalaya,East,2022-06-22,Premium
+CUST00631,Rajata,Lala,Female,2006-03-30,imishra@example.net,0171719988,Ramgarh,Punjab,West,2021-08-14,Corporate
+CUST00632,Vasatika,Goyal,Female,2004-11-04,yugsandal@example.com,07738641737,Karnal,Andhra Pradesh,North,2024-10-22,Corporate
+CUST00633,Ladli,Varghese,Female,1985-09-26,pillairadha@example.org,02053038490,Latur,Himachal Pradesh,South,2023-06-15,Premium
+CUST00634,Mugdha,Krishnamurthy,Female,1974-12-07,williambains@example.com,02330027361,Orai,Manipur,North,2023-07-18,Corporate
+CUST00635,Amara,Lall,Female,1975-06-07,ridhi13@example.org,08056536156,Hapur,Tripura,West,2023-04-19,Corporate
+CUST00636,Amruta,Maharaj,Female,2007-05-29,birsarthak@example.org,8291051559,Mango,Tamil Nadu,North,2025-03-03,Regular
+CUST00637,Urvashi,Dhillon,Male,1988-12-03,chanakya49@example.org,00447893677,Ramgarh,Mizoram,West,2023-06-03,Premium
+CUST00638,Yashoda,Sankaran,Female,1992-10-25,abhimanyuvala@example.org,+919959594578,Begusarai,Himachal Pradesh,North,2026-03-22,Corporate
+CUST00639,Pahal,Bali,Female,1971-04-05,narasimhandevansh@example.net,+912680660125,Serampore,Manipur,North,2026-04-17,Regular
+CUST00640,George,Bhardwaj,Male,1989-12-18,goleisaiah@example.com,+914965858103,Sasaram,Meghalaya,East,2023-02-13,Corporate
+CUST00641,Gabriel,Mukherjee,Female,1990-04-18,bhanumati86@example.com,+914438058303,Sambhal,Assam,North,2025-02-02,Premium
+CUST00642,Sai,Kala,Female,1993-12-02,panchalwazir@example.org,08856198488,Purnia,Andhra Pradesh,West,2026-01-18,Premium
+CUST00643,Faras,Gola,Female,1981-12-16,qushi38@example.com,3614058334,Panihati,Uttarakhand,East,2026-03-21,Premium
+CUST00644,Ekantika,Manda,Female,1996-07-12,qpal@example.org,04527068609,Gurgaon,Uttarakhand,North,2022-07-07,Premium
+CUST00645,Mugdha,Borah,Female,1993-07-18,surachaaya@example.org,4515602021,Ulhasnagar,Sikkim,West,2025-12-29,Premium
+CUST00646,Niharika,Raj,Female,1974-09-24,choudhuryfariq@example.com,00068356485,Etawah,Meghalaya,West,2023-05-13,Corporate
+CUST00647,Vamakshi,Pal,Male,1997-11-04,vgoel@example.com,+910433697343,Panvel,West Bengal,North,2022-09-04,Corporate
+CUST00648,Urishilla,Swaminathan,Male,2000-12-10,gaurangbatra@example.com,+918061627025,Parbhani,Jharkhand,North,2023-08-07,Premium
+CUST00649,Advaith,Rout,Male,1976-01-24,brijeshdora@example.net,+916508366738,Junagadh,Uttar Pradesh,South,2022-10-02,Premium
+CUST00650,Harita,Aurora,Male,1970-08-11,maxpillay@example.net,3469596224,Bulandshahr,Nagaland,East,2024-02-06,Corporate
+CUST00651,Frado,Sheth,Male,1979-01-04,jagvi16@example.org,+912509943935,Panchkula,Odisha,South,2022-05-02,Corporate
+CUST00652,Leela,Dhar,Male,1976-01-10,chackoumang@example.org,5283619542,Kozhikode,Bihar,East,2024-10-21,Corporate
+CUST00653,Balveer,Manda,Male,1975-09-02,ljoshi@example.net,9128891871,Hapur,Karnataka,North,2022-03-31,Regular
+CUST00654,Gauri,Sangha,Male,1970-04-18,lilaborah@example.com,+915206981248,Meerut,Tamil Nadu,West,2021-08-16,Premium
+CUST00655,Yashoda,Chakrabarti,Female,1967-11-06,veda20@example.org,00451113435,Kanpur,Karnataka,South,2026-06-21,Premium
+CUST00656,Nihal,Gera,Female,1978-09-22,usubramaniam@example.org,8021645849,Vijayanagaram,Uttarakhand,South,2022-04-13,Regular
+CUST00657,Vanya,Gera,Female,1983-01-16,bhallaanamika@example.com,8412189265,Sikar,Odisha,West,2024-11-20,Corporate
+CUST00658,Ansh,Joshi,Female,1991-06-04,aryavihaan@example.com,8695838071,Jehanabad,Jharkhand,West,2025-03-30,Corporate
+CUST00659,Varsha,Ramaswamy,Female,1983-04-25,ebakshi@example.com,06609511200,Rourkela,Goa,South,2025-01-27,Premium
+CUST00660,Dalbir,Gara,Male,1999-05-12,zayan69@example.com,+911446119382,Bidar,Jharkhand,South,2026-07-16,Corporate
+CUST00661,Jairaj,Taneja,Male,1990-04-17,damini57@example.com,+915969591474,Raiganj,Arunachal Pradesh,North,2026-04-03,Regular
+CUST00662,Meera,Menon,Female,1972-12-14,lokechavvi@example.org,2107543290,Bulandshahr,Tripura,East,2026-05-09,Premium
+CUST00663,Pranav,Tara,Female,1966-04-04,amol65@example.org,+918457488531,Katni,Mizoram,South,2025-10-20,Corporate
+CUST00664,Veda,Pai,Female,1995-05-27,qdey@example.com,+918528189804,Gorakhpur,Tripura,East,2021-10-23,Premium
+CUST00665,Aarav,Bansal,Female,1993-08-03,ekaur@example.com,+910221443528,Ludhiana,Uttar Pradesh,South,2025-05-15,Corporate
+CUST00666,Dhriti,Rau,Male,1998-12-07,lnanda@example.net,+916016855883,Sultan Pur Majra,Sikkim,South,2024-01-06,Regular
+CUST00667,Ranbir,Kala,Female,1998-08-06,lgulati@example.com,5935387579,Bokaro,Haryana,East,2026-03-29,Premium
+CUST00668,Tanmayi,Kadakia,Male,1971-03-24,tahuja@example.org,5170292670,Tezpur,Assam,West,2026-05-26,Corporate
+CUST00669,Ira,Ramesh,Female,1984-07-22,ekapad14@example.net,06566579937,Panvel,Arunachal Pradesh,East,2023-03-28,Regular
+CUST00670,Nirja,Cheema,Male,2007-09-05,harshilramakrishnan@example.org,9359925705,Bhusawal,Tripura,North,2026-02-16,Premium
+CUST00671,Reyansh,Sen,Female,1982-01-26,vrinda68@example.org,01932352267,Tezpur,Meghalaya,North,2026-06-11,Premium
+CUST00672,Jonathan,Yohannan,Female,1985-12-01,dayita42@example.net,+914354348143,Bikaner,Nagaland,North,2022-06-09,Corporate
+CUST00673,Panini,Choudhary,Male,1984-01-22,duawidisha@example.org,5832824959,Amroha,Tripura,West,2022-04-26,Regular
+CUST00674,Jhalak,Handa,Male,1965-09-24,jaggiyahvi@example.com,06473690128,Jorhat,Kerala,South,2026-06-26,Corporate
+CUST00675,Rehaan,Kale,Female,1969-09-24,ogour@example.net,+912088770592,Salem,Telangana,North,2023-09-25,Premium
+CUST00676,Saksham,Saraf,Female,1991-12-06,bakshiindali@example.net,+910052822568,Ambattur,Tripura,North,2024-02-18,Corporate
+CUST00677,Hamsini,Ratti,Male,1988-03-16,nagarajanchandani@example.com,01441407271,Sirsa,Tripura,South,2022-10-16,Regular
+CUST00678,Meera,Nanda,Female,1984-03-18,isibal@example.org,0440730500,Maheshtala,Chhattisgarh,East,2021-07-23,Corporate
+CUST00679,Kalpit,D’Alia,Male,1990-04-05,sudiksha03@example.net,6507578087,Vijayanagaram,Madhya Pradesh,South,2024-11-12,Regular
+CUST00680,Pranit,Sachdeva,Male,1986-11-29,wallabachittar@example.org,09742452235,Navi Mumbai,Tamil Nadu,West,2025-05-23,Corporate
+CUST00681,Kiaan,Mammen,Male,1996-07-31,vihaanmohanty@example.com,+916331331487,Kavali,Goa,East,2021-09-24,Premium
+CUST00682,Lakshmi,Agarwal,Female,1996-06-04,zilmilsunder@example.com,01643595909,Ichalkaranji,Sikkim,East,2024-01-22,Regular
+CUST00683,Keya,Dubey,Female,1971-10-25,raghav06@example.net,+914887736545,Navi Mumbai,Punjab,West,2025-08-09,Premium
+CUST00684,Prisha,Mishra,Male,2006-05-10,abhirammital@example.org,00531576466,Bhopal,Uttarakhand,East,2024-02-11,Corporate
+CUST00685,Odika,Saha,Male,1975-12-27,dkota@example.org,+910172689844,Ozhukarai,Kerala,South,2022-04-25,Regular
+CUST00686,Qadim,Buch,Female,1993-04-03,lmagar@example.com,+918277564149,Hubli–Dharwad,Odisha,East,2023-06-25,Corporate
+CUST00687,Radhika,Rao,Female,1974-10-02,baljiwanvyas@example.org,09393873868,Mehsana,Andhra Pradesh,South,2022-06-09,Premium
+CUST00688,Dakshesh,Rana,Female,1981-12-01,chanchal15@example.org,2594505242,Siliguri,Karnataka,North,2024-04-22,Corporate
+CUST00689,Kritika,Barad,Male,1984-12-01,garima12@example.com,5798167830,Tezpur,Tamil Nadu,North,2022-01-02,Premium
+CUST00690,Edhitha,Arya,Female,1986-01-27,saradani@example.net,06185700078,Secunderabad,Arunachal Pradesh,North,2023-02-01,Premium
+CUST00691,Prisha,Walia,Male,2005-09-30,falanchahal@example.net,+914882373275,Kota,West Bengal,East,2023-05-23,Premium
+CUST00692,Wazir,Warrior,Female,1971-08-28,nigamdevika@example.net,7237180056,Mathura,Manipur,East,2025-05-03,Corporate
+CUST00693,Chaitanya,Dash,Male,1995-03-05,surinaya@example.org,3703702276,Kolkata,Maharashtra,South,2023-11-23,Regular
+CUST00694,Upadhriti,Chaudhary,Male,1967-04-12,chokshipeter@example.com,+919661501877,Morbi,Mizoram,South,2023-09-01,Premium
+CUST00695,Lipika,Dubey,Female,1998-07-28,tataisaiah@example.com,1457188344,Udupi,Manipur,East,2025-10-23,Corporate
+CUST00696,Darpan,Anand,Female,1999-10-30,raagini14@example.org,7213371988,Hyderabad,Telangana,West,2023-02-01,Regular
+CUST00697,Oni,Koshy,Female,2001-10-17,esrivastava@example.net,05085175755,Burhanpur,Goa,East,2026-06-09,Regular
+CUST00698,Praneel,Peri,Female,1986-12-17,mgole@example.org,5627739358,Avadi,West Bengal,South,2026-05-13,Corporate
+CUST00699,Siddharth,Kashyap,Female,1971-05-17,chauhanucchal@example.net,+916599188144,Bhusawal,Mizoram,South,2024-10-06,Premium
+CUST00700,Raksha,Sibal,Male,1978-12-31,henrypingle@example.com,+914989720336,Ghaziabad,Manipur,South,2026-06-24,Corporate
+CUST00701,Chatura,Pall,Female,2007-09-22,raghavsant@example.org,8108100402,Moradabad,Bihar,North,2023-04-23,Premium
+CUST00702,Niharika,Sankar,Male,2003-07-17,tanmayibhalla@example.net,08397817855,Tenali,Telangana,South,2022-09-07,Premium
+CUST00703,Sathvik,Mallick,Female,1978-11-21,chatura54@example.org,3543356593,Morena,Uttarakhand,West,2022-09-14,Premium
+CUST00704,Arya,Bail,Male,1985-03-21,ktandon@example.net,+913994523006,Haridwar,Arunachal Pradesh,South,2024-06-30,Corporate
+CUST00705,Oviya,Chanda,Female,2005-05-23,udarshbhargava@example.net,0037102318,Nandyal,Karnataka,East,2023-04-03,Regular
+CUST00706,Balhaar,Sodhi,Male,1993-03-17,aarush69@example.org,2590298506,Nashik,Bihar,East,2023-06-19,Regular
+CUST00707,Radha,Virk,Male,1976-12-27,nmishra@example.org,09499730778,Machilipatnam,Uttar Pradesh,North,2023-02-10,Premium
+CUST00708,Eesha,Bakshi,Female,2005-12-03,rehaan55@example.net,05949139096,Erode,Rajasthan,East,2021-12-17,Premium
+CUST00709,David,Gade,Male,1994-08-14,chasmummodi@example.net,+910045744058,Ramgarh,Madhya Pradesh,South,2021-09-15,Premium
+CUST00710,Abdul,Ben,Male,1966-07-18,evaidya@example.org,0220464155,Jalna,Gujarat,North,2021-08-21,Premium
+CUST00711,Tara,Mutti,Male,2005-10-03,dsolanki@example.org,01127151430,Faridabad,Sikkim,South,2023-05-30,Regular
+CUST00712,Lakshit,Khanna,Male,1976-11-24,pratyush39@example.net,7456611621,Muzaffarnagar,Odisha,East,2026-03-11,Premium
+CUST00713,Omkaar,Rattan,Female,1985-06-23,dtella@example.com,07306753107,Burhanpur,Bihar,North,2025-05-01,Regular
+CUST00714,Omisha,Chakraborty,Female,1989-12-17,badalyochana@example.net,09368489455,Agartala,Uttar Pradesh,East,2021-12-16,Corporate
+CUST00715,Indali,Vohra,Female,1976-03-14,paninijayaraman@example.net,5404205442,Vasai-Virar,Meghalaya,West,2022-09-14,Premium
+CUST00716,Upadhriti,Basu,Female,2001-10-10,aghose@example.com,06385815321,Nanded,Gujarat,East,2021-08-15,Regular
+CUST00717,Ekanta,Mani,Female,1967-02-27,rishidutta@example.net,+917204262626,Ajmer,Meghalaya,East,2023-12-23,Corporate
+CUST00718,Sudiksha,Patil,Male,1979-09-20,kadakiaaryan@example.org,08159850797,Ajmer,Goa,East,2022-11-14,Regular
+CUST00719,Ikshita,Menon,Female,1979-02-02,osarma@example.net,00522017199,Tenali,Kerala,East,2024-10-21,Premium
+CUST00720,Hamsini,Desai,Male,1967-11-16,bwason@example.org,04645646220,Mehsana,West Bengal,West,2023-11-13,Premium
+CUST00721,Zaitra,Sarna,Male,1975-03-17,xdin@example.com,+912646430119,Kakinada,Telangana,West,2025-01-13,Regular
+CUST00722,Hiral,Sarin,Female,1998-09-14,kkale@example.org,03480058977,Jalgaon,Nagaland,West,2023-02-14,Premium
+CUST00723,Harita,Nigam,Male,1965-10-16,pallaishwar@example.org,0213739993,Mirzapur,Uttar Pradesh,West,2023-08-19,Premium
+CUST00724,Aarush,Samra,Female,1978-08-12,siyamann@example.net,+910866746030,Hyderabad,Punjab,West,2023-09-28,Corporate
+CUST00725,Nachiket,Buch,Female,1985-11-18,qyadav@example.com,4913395733,Machilipatnam,Tamil Nadu,South,2022-01-09,Premium
+CUST00726,Amara,Ramakrishnan,Female,1990-06-02,samaksh64@example.net,+917285590149,Howrah,Bihar,North,2023-09-03,Regular
+CUST00727,Yuvraj,Sengupta,Male,1985-05-11,kundaanusha@example.org,05063907647,Ratlam,Assam,West,2022-03-20,Corporate
+CUST00728,Mohammed,Sarkar,Female,1971-05-22,keerrushil@example.com,01575800982,Nagaon,Chhattisgarh,North,2025-08-03,Corporate
+CUST00729,Liam,Kashyap,Male,1974-07-20,ethanvig@example.net,06042676664,Hindupur,Mizoram,South,2022-03-24,Corporate
+CUST00730,Faqid,Badami,Male,1994-04-05,xseth@example.com,06700331575,Howrah,Chhattisgarh,West,2023-09-27,Regular
+CUST00731,Anvi,Varty,Male,1971-08-29,keya73@example.org,+912407194085,Bhubaneswar,Goa,North,2022-06-06,Premium
+CUST00732,Ekalinga,Lata,Female,1978-01-27,rmukherjee@example.org,7495106704,Phusro,Meghalaya,West,2022-02-13,Premium
+CUST00733,Champak,Devan,Male,1971-10-20,sarthaknagar@example.net,09795705483,Rewa,Madhya Pradesh,North,2021-11-16,Corporate
+CUST00734,Riya,Edwin,Female,2003-03-03,prashadjonathan@example.org,07970879064,Chennai,Nagaland,West,2026-06-21,Regular
+CUST00735,Ira,Chander,Male,2000-09-15,jchana@example.net,+917202513300,Kolhapur,Uttarakhand,West,2023-10-09,Corporate
+CUST00736,Netra,Lall,Female,2005-10-22,chokshibanjeet@example.net,0775446326,Jamalpur,Nagaland,West,2023-08-03,Corporate
+CUST00737,Siddharth,Barad,Female,1993-04-01,bhattacharyyatanay@example.com,09646237546,Tiruchirappalli,Madhya Pradesh,North,2022-05-13,Corporate
+CUST00738,George,Natt,Female,1982-01-20,raghav13@example.com,5088429863,Anand,Telangana,East,2024-09-16,Regular
+CUST00739,Rachana,Panchal,Female,1997-09-05,lajita50@example.com,+919997380536,Salem,Himachal Pradesh,North,2021-09-27,Corporate
+CUST00740,Champak,Tata,Male,1988-05-15,aachal74@example.com,3155447134,Patna,Uttarakhand,West,2024-12-13,Regular
+CUST00741,Manya,Lad,Male,1975-08-15,chaitaly78@example.com,+912916221179,Chandrapur,Tamil Nadu,East,2024-10-24,Regular
+CUST00742,Girish,Mital,Female,1986-03-09,yashdhaliwal@example.org,0585007258,Bardhaman,Uttarakhand,East,2022-08-17,Regular
+CUST00743,Yoshita,Ganesan,Female,1971-03-17,yatan25@example.com,6119295193,Surendranagar Dudhrej,Chhattisgarh,East,2025-12-22,Corporate
+CUST00744,Ekantika,Bhalla,Female,2000-10-24,yraman@example.net,01371259722,Bhilwara,Assam,East,2025-03-25,Corporate
+CUST00745,Shivani,Sachdev,Female,1984-01-10,unnatitoor@example.net,00047605144,New Delhi,Tamil Nadu,East,2023-05-27,Regular
+CUST00746,Vedika,Iyengar,Male,1973-05-07,veda79@example.com,00477370136,Morbi,Maharashtra,East,2021-11-11,Corporate
+CUST00747,Ekaja,Naidu,Female,1986-04-27,shannandini@example.net,+918888952973,Khandwa,Andhra Pradesh,East,2024-01-02,Regular
+CUST00748,Jeevika,Handa,Male,1976-08-30,hminhas@example.org,+914457569264,Sambalpur,Jharkhand,West,2022-11-20,Regular
+CUST00749,Gautam,Kuruvilla,Female,1978-09-21,siddharth30@example.net,04008531703,Gurgaon,Odisha,West,2023-02-12,Premium
+CUST00750,Edhitha,Swaminathan,Female,1985-01-29,warinder17@example.org,00209363521,Burhanpur,West Bengal,East,2021-12-05,Regular
+CUST00751,Tarak,Palla,Male,2001-11-01,imarannarayanan@example.com,+919250886280,Adoni,Sikkim,South,2024-06-26,Premium
+CUST00752,Anmol,Srinivas,Male,2001-05-07,jhanda@example.net,01568613760,Dehradun,Karnataka,East,2022-03-21,Corporate
+CUST00753,Janani,Shere,Male,2001-08-08,vasanadeep@example.org,08681845942,Sambalpur,Nagaland,West,2022-05-02,Premium
+CUST00754,Amruta,Gulati,Male,1998-05-07,qpal@example.net,+919277636300,Jamalpur,Rajasthan,East,2022-01-12,Regular
+CUST00755,Vasudha,Mane,Female,1965-12-17,solankixiti@example.org,4959560000,Hosur,Tripura,West,2024-11-24,Premium
+CUST00756,Aarini,Gaba,Female,1973-06-03,darshnori@example.org,04503525605,Bareilly,Gujarat,West,2024-11-15,Regular
+CUST00757,Girik,Kaur,Male,1975-06-20,jeet51@example.net,+914075608230,Bhavnagar,Haryana,North,2021-10-23,Regular
+CUST00758,Caleb,Loyal,Male,1985-11-03,mahika80@example.com,6093491574,Baranagar,Arunachal Pradesh,East,2024-03-01,Premium
+CUST00759,Amol,Tailor,Male,1970-02-03,minhasrajata@example.org,8042775969,Dehri,Telangana,North,2022-07-23,Corporate
+CUST00760,Dayita,Jani,Male,2006-05-03,mmukhopadhyay@example.net,+915332774399,Moradabad,Arunachal Pradesh,West,2025-03-19,Regular
+CUST00761,Kala,Rajagopalan,Female,1989-10-17,xavier34@example.com,6703693301,Kollam,Andhra Pradesh,North,2023-03-18,Premium
+CUST00762,Yashvi,Lal,Female,2003-08-09,jdugar@example.org,+911033430001,Aurangabad,Gujarat,North,2022-03-20,Regular
+CUST00763,Harinakshi,Salvi,Male,2001-01-22,bhanumati41@example.org,05768874367,Rampur,Goa,South,2023-06-16,Regular
+CUST00764,Janya,Parmar,Male,1997-12-21,yuvraj88@example.com,07222570222,Thanjavur,Uttar Pradesh,East,2023-10-28,Corporate
+CUST00765,Chakradev,Natt,Female,1999-05-27,andrew18@example.net,5605078066,Tinsukia,Madhya Pradesh,West,2026-04-15,Regular
+CUST00766,Daksha,Mody,Male,2004-08-23,nagiaachal@example.com,+910874857805,Danapur,Arunachal Pradesh,South,2025-03-21,Corporate
+CUST00767,Meera,Shukla,Female,1982-12-23,ddevi@example.com,09577184013,Bareilly,Arunachal Pradesh,North,2026-03-08,Regular
+CUST00768,Xiti,Jha,Male,2008-07-01,cmohanty@example.net,+916752988798,Sikar,Mizoram,South,2022-12-31,Premium
+CUST00769,Advay,Dar,Male,1991-05-06,aryan14@example.net,3434789510,Siliguri,Odisha,South,2023-06-01,Premium
+CUST00770,Peter,Kibe,Female,1970-04-19,edeep@example.net,09744328328,Arrah,Assam,East,2025-09-16,Premium
+CUST00771,Lakshit,Narasimhan,Female,1992-01-20,vansha69@example.net,9570103951,Visakhapatnam,Mizoram,South,2022-12-24,Premium
+CUST00772,Pahal,Hans,Male,1989-05-26,kapadiaanthony@example.net,06870258991,Rajkot,Andhra Pradesh,North,2026-03-14,Regular
+CUST00773,Bhavani,Saini,Male,2006-03-09,hamsiniwagle@example.com,08742166626,Shahjahanpur,Gujarat,South,2024-08-14,Premium
+CUST00774,Nakul,Lala,Male,1976-12-06,agastyagala@example.com,+917047865595,Ratlam,Haryana,West,2022-09-03,Regular
+CUST00775,Leela,Loke,Female,1978-10-08,wbose@example.com,8950483351,Kollam,Kerala,West,2026-01-10,Corporate
+CUST00776,Kashish,Bhakta,Female,1998-11-11,dipta38@example.net,3992006416,Thane,Odisha,North,2023-10-05,Regular
+CUST00777,Michael,Om,Female,1968-01-20,deoltriya@example.net,0947183588,Bidhannagar,Rajasthan,South,2024-02-08,Corporate
+CUST00778,Avni,Hora,Female,1994-06-13,uvarughese@example.net,+910655299038,Nanded,Karnataka,East,2026-07-01,Regular
+CUST00779,Upma,Keer,Male,1971-12-10,kshetty@example.net,3151144263,Farrukhabad,Himachal Pradesh,South,2023-05-06,Premium
+CUST00780,Chameli,Rastogi,Male,1974-01-29,pmanne@example.com,+914543826761,Anand,Manipur,North,2025-04-08,Regular
+CUST00781,Rohan,Yadav,Male,2001-01-05,abutala@example.com,4872102239,Kulti,Haryana,West,2021-08-31,Regular
+CUST00782,Suhani,Palla,Male,1970-08-15,zayanpatla@example.com,00224794261,Jamalpur,Tamil Nadu,North,2026-03-04,Regular
+CUST00783,Zashil,Jaggi,Male,1974-04-02,madhavsanghvi@example.org,7785493293,Bhind,Tamil Nadu,South,2025-05-26,Premium
+CUST00784,Jagrati,Tak,Male,2003-02-24,ekanshrama@example.org,01575820229,Bathinda,Mizoram,East,2023-08-31,Premium
+CUST00785,Ekantika,Aurora,Female,2000-11-02,wishisankar@example.com,06377991921,Yamunanagar,Sikkim,West,2023-04-16,Premium
+CUST00786,Aishani,Raju,Female,1974-05-06,rauranveer@example.org,+918547942547,Gangtok,Kerala,East,2025-02-05,Corporate
+CUST00787,Zinal,Dora,Male,1975-03-10,wakeeta05@example.net,09987518952,Dhanbad,Odisha,South,2025-12-25,Premium
+CUST00788,Pavani,Kale,Male,2003-04-16,pradhansimon@example.net,+915813628329,Dehri,Telangana,North,2026-04-16,Premium
+CUST00789,Anjali,Ratta,Female,1994-12-22,madhav20@example.org,01113850792,Dewas,Nagaland,South,2026-06-19,Regular
+CUST00790,Lakshit,Raval,Male,1969-06-21,radha11@example.com,+919550244126,Shahjahanpur,Meghalaya,West,2025-10-05,Corporate
+CUST00791,Girindra,Mand,Male,1971-07-12,gopalwarrior@example.net,+914054194930,Malegaon,Mizoram,East,2024-08-18,Regular
+CUST00792,Dev,Kala,Male,2007-07-10,chakrabortyamol@example.org,1723817808,Aurangabad,Haryana,West,2026-06-16,Regular
+CUST00793,Lavanya,Swamy,Female,2001-06-28,dakshdalia@example.org,04479655296,Amritsar,Karnataka,East,2025-02-16,Premium
+CUST00794,Yadavi,Warrior,Female,1970-12-25,hardik04@example.com,2628531958,Asansol,Uttar Pradesh,South,2025-02-07,Corporate
+CUST00795,Nathaniel,Pau,Male,1966-08-19,ttata@example.org,1481518117,Salem,Uttar Pradesh,South,2023-12-03,Regular
+CUST00796,Balhaar,Batta,Male,1988-07-28,urmi29@example.org,08481426780,Junagadh,Mizoram,East,2022-05-21,Regular
+CUST00797,Inaya,Patla,Female,1981-02-25,patilnoah@example.net,7084532007,Ramagundam,Manipur,East,2022-03-10,Regular
+CUST00798,Chandran,Talwar,Female,2005-05-31,arunima16@example.org,+913790049261,Shivpuri,Tripura,East,2022-09-26,Premium
+CUST00799,Hiral,More,Female,1980-04-29,rramanathan@example.com,06580592516,Alappuzha,Tripura,North,2022-11-17,Premium
+CUST00800,Ojasvi,Varghese,Male,1990-11-19,peter32@example.net,0824586094,Faridabad,Punjab,East,2021-08-13,Premium
+CUST00801,Manbir,Dyal,Female,1984-07-02,periyahvi@example.net,1797297009,Pondicherry,Uttarakhand,West,2025-01-03,Premium
+CUST00802,Zayyan,Karpe,Female,1983-08-05,paninilall@example.net,+916175844036,South Dumdum,Chhattisgarh,West,2023-06-22,Corporate
+CUST00803,Jatin,Kapoor,Male,2006-12-12,auroraguneet@example.org,5149293373,Anand,Madhya Pradesh,East,2023-01-15,Premium
+CUST00804,Parth,Barad,Female,1989-10-16,lopa93@example.org,01010893181,Ramagundam,Telangana,East,2025-12-11,Regular
+CUST00805,Chakrika,Sama,Female,1965-08-03,dalbir40@example.com,2948645618,Jehanabad,Punjab,East,2023-07-10,Regular
+CUST00806,Jeet,Bose,Female,1975-07-24,rayaankrishna@example.org,06737732805,Dehradun,Uttar Pradesh,South,2022-01-01,Regular
+CUST00807,Udarsh,Balasubramanian,Female,1977-05-07,virkom@example.com,6617620412,Gopalpur,Jharkhand,East,2026-04-17,Regular
+CUST00808,Jagdish,Shukla,Male,1995-06-26,lakshmihari@example.org,3832675702,Mirzapur,Maharashtra,West,2026-05-16,Corporate
+CUST00809,Jeevika,Roy,Female,1998-01-24,fdhaliwal@example.net,+911901761835,Kollam,Uttarakhand,East,2026-07-14,Regular
+CUST00810,Aayush,Bora,Female,2003-07-30,gchokshi@example.org,0014379999,Madurai,Gujarat,South,2024-04-16,Premium
+CUST00811,Agastya,Mitra,Female,1983-09-28,vanya53@example.org,+913748358392,Kirari Suleman Nagar,Maharashtra,North,2025-11-13,Regular
+CUST00812,Ucchal,Chand,Male,1987-05-08,jaurora@example.org,9257722689,Satara,Kerala,East,2021-12-25,Corporate
+CUST00813,Onveer,Batta,Male,1984-03-06,prakashjason@example.com,04583717810,Panihati,Arunachal Pradesh,South,2024-02-24,Regular
+CUST00814,Gaurav,Sehgal,Female,1980-06-13,kabirkade@example.net,3309648086,Durg,Madhya Pradesh,South,2024-04-17,Premium
+CUST00815,Aishani,Vyas,Female,1972-09-15,dshanker@example.com,03621901424,Kumbakonam,West Bengal,West,2022-05-16,Premium
+CUST00816,Henry,Mitter,Female,2001-04-13,zaitrakaran@example.net,7700430288,Surendranagar Dudhrej,Tamil Nadu,North,2022-03-02,Regular
+CUST00817,Yatan,Nadig,Female,1970-12-05,vincent05@example.net,+919408253069,Ongole,Assam,South,2025-06-28,Premium
+CUST00818,Pooja,Varma,Female,1976-06-05,lsetty@example.net,03287985448,Imphal,Karnataka,North,2023-02-20,Regular
+CUST00819,Anvi,Srinivasan,Female,1975-01-04,ijaya27@example.com,2485395019,Gandhidham,Punjab,West,2022-03-11,Corporate
+CUST00820,Jagat,Bassi,Female,2006-02-15,pillainathaniel@example.com,5481654906,Baranagar,Nagaland,West,2026-07-19,Corporate
+CUST00821,Maanav,Rao,Female,1966-11-05,iraprashad@example.net,+910123287319,Bidar,Tripura,South,2025-10-08,Premium
+CUST00822,Yashica,Sanghvi,Female,1972-01-29,sinhaojas@example.com,+918020176501,Ajmer,Odisha,North,2021-08-11,Regular
+CUST00823,Ekani,Yadav,Female,1982-07-08,maanasparekh@example.org,+918024398669,Siliguri,Haryana,East,2021-08-26,Premium
+CUST00824,Omkaar,Zachariah,Female,1992-11-17,ltara@example.org,+917209394108,Faridabad,Meghalaya,East,2026-07-10,Regular
+CUST00825,Gunbir,Sood,Male,1981-03-12,vivaan65@example.com,07678018751,Raipur,West Bengal,East,2025-12-27,Corporate
+CUST00826,Eesha,Chaudry,Female,1971-11-18,umangjayaraman@example.com,09542972702,Durgapur,Uttarakhand,North,2023-05-19,Premium
+CUST00827,Deepa,Gour,Female,1977-01-15,shahharini@example.org,07280708297,Miryalaguda,Uttar Pradesh,North,2026-06-20,Corporate
+CUST00828,Ishita,Chatterjee,Male,1975-01-05,hredhaanoak@example.org,7847475094,Patna,Mizoram,East,2025-03-05,Corporate
+CUST00829,Saumya,Baral,Male,1994-02-22,lakshmipatil@example.org,2981305200,Jaunpur,Uttarakhand,West,2026-02-21,Premium
+CUST00830,Ronith,Bajwa,Male,1978-01-06,janaki18@example.net,1515887162,Mango,Assam,West,2024-02-25,Regular
+CUST00831,Ekalinga,Kalla,Female,2004-08-27,dubeyforum@example.com,04583279225,Ambarnath,Tamil Nadu,West,2023-08-11,Regular
+CUST00832,Charvi,Bassi,Male,2008-02-13,yashodamanda@example.com,02042115745,Haldia,Uttarakhand,North,2022-04-21,Corporate
+CUST00833,Orinder,Ravel,Female,1985-04-23,nandinibahri@example.org,6549344598,Dindigul,Gujarat,North,2023-11-22,Premium
+CUST00834,Omaja,Master,Female,1995-10-20,bimala53@example.org,3916107016,Amaravati,Telangana,West,2026-04-09,Corporate
+CUST00835,Ishwar,Chada,Male,1992-05-11,zansibains@example.org,07663342223,Bathinda,Sikkim,North,2021-09-12,Premium
+CUST00836,Zaid,Dugar,Male,1996-04-05,isaiahguha@example.net,+910761235632,Kamarhati,West Bengal,East,2024-08-27,Regular
+CUST00837,Hemang,Dugal,Female,2002-03-08,jvenkatesh@example.org,7747572500,Jhansi,Haryana,South,2023-04-24,Corporate
+CUST00838,Balveer,Sanghvi,Female,1987-09-02,sehgalwriddhish@example.net,+916528429993,Dharmavaram,Manipur,East,2025-04-10,Regular
+CUST00839,Meera,Soman,Male,1967-02-12,norinitesh@example.com,02420824861,Sangli-Miraj & Kupwad,Chhattisgarh,South,2026-02-28,Corporate
+CUST00840,Dakshesh,Mukhopadhyay,Female,1967-03-12,dakshagupta@example.com,00425682539,Pune,Uttar Pradesh,North,2025-06-30,Premium
+CUST00841,Jagrati,Kanda,Female,1970-09-28,zaiddada@example.net,8195888429,North Dumdum,Nagaland,West,2026-05-23,Corporate
+CUST00842,Pooja,Padmanabhan,Female,1966-10-06,jkara@example.com,2404572514,Narasaraopet,Uttarakhand,West,2022-11-08,Premium
+CUST00843,Vansha,Savant,Male,1999-06-16,sahotagirik@example.org,4216336450,Saharsa,Arunachal Pradesh,North,2025-07-24,Premium
+CUST00844,Ikshita,Baral,Male,1989-05-13,nachiketmittal@example.org,08264094864,Pimpri-Chinchwad,Jharkhand,North,2026-04-04,Premium
+CUST00845,Neel,Lalla,Male,1967-04-23,harshil48@example.org,05213040382,Nandyal,Bihar,North,2022-03-27,Corporate
+CUST00846,Prisha,Pai,Male,2007-02-10,vmemon@example.org,+910955441822,Ramgarh,Meghalaya,South,2025-08-21,Premium
+CUST00847,Henry,Jaggi,Male,1972-07-13,arjun42@example.net,+912279778138,Muzaffarnagar,Karnataka,South,2024-04-24,Corporate
+CUST00848,Max,Mand,Male,1974-11-16,saxenachakrika@example.org,03463313733,Tinsukia,Sikkim,South,2026-01-20,Corporate
+CUST00849,Saksham,Bali,Female,1991-02-08,kalaqadim@example.org,+918086023605,Shivpuri,Kerala,South,2025-05-09,Premium
+CUST00850,Jhalak,Sandal,Female,1983-12-29,zbhavsar@example.net,04154537829,Jamnagar,Rajasthan,South,2025-09-03,Regular
+CUST00851,Gabriel,Ramachandran,Male,1976-06-19,rudra60@example.com,3634043367,Khora ,Assam,South,2022-06-12,Regular
+CUST00852,Jagdish,Balay,Male,1983-02-18,hredhaankale@example.net,+919774585919,Surat,Odisha,North,2021-11-06,Corporate
+CUST00853,Frado,Deshmukh,Female,1991-02-10,prashadbalhaar@example.org,+912385700896,Alappuzha,Jharkhand,West,2022-09-15,Regular
+CUST00854,Luke,Roy,Female,1967-03-26,chatura70@example.org,07887187325,Bhagalpur,Assam,West,2021-08-25,Corporate
+CUST00855,Isaac,Trivedi,Female,1969-03-08,ekrish@example.org,05228900643,Dharmavaram,Uttarakhand,North,2021-11-09,Corporate
+CUST00856,Yashasvi,Misra,Female,1982-09-21,zehaanoommen@example.org,+918232978304,Ambattur,Meghalaya,North,2023-10-31,Corporate
+CUST00857,Jai,Tandon,Female,1985-03-02,ekaraj46@example.org,5865036730,Bhilwara,Karnataka,North,2022-02-03,Premium
+CUST00858,Kavya,Natt,Female,1979-11-19,samakshparikh@example.net,2601413932,Tiruvottiyur,Kerala,West,2024-09-09,Corporate
+CUST00859,Jhalak,Borde,Male,2007-06-26,sankaransamuel@example.org,00275832102,Sangli-Miraj & Kupwad,Kerala,East,2025-12-21,Premium
+CUST00860,Balvan,Kala,Male,1999-09-30,rayarjun@example.net,06042955649,Kavali,West Bengal,South,2026-06-01,Regular
+CUST00861,Ekalinga,Vasa,Male,1968-04-18,ryan87@example.com,+917603970413,Tiruppur,Arunachal Pradesh,South,2024-05-13,Corporate
+CUST00862,Timothy,Lal,Male,1977-02-01,gram@example.org,05621133023,Unnao,West Bengal,West,2026-07-18,Corporate
+CUST00863,Amaira,Chadha,Male,1989-03-23,vaidyageorge@example.org,+916644483682,Yamunanagar,Jharkhand,South,2025-08-03,Regular
+CUST00864,Neha,Sarkar,Female,1990-05-27,qnagar@example.org,8586244145,Ambarnath,Punjab,North,2023-06-14,Corporate
+CUST00865,Aditya,Ramanathan,Male,2006-11-12,imaranissac@example.org,5361458866,Jorhat,Goa,West,2021-11-11,Regular
+CUST00866,Matthew,Dhar,Female,2005-10-13,salvigeetika@example.org,08242994741,Tiruchirappalli,Tripura,North,2024-10-04,Corporate
+CUST00867,Ekansh,Karpe,Female,1988-03-16,qchhabra@example.net,7618853872,Guntur,Sikkim,West,2025-10-09,Premium
+CUST00868,Girish,Pillay,Male,1993-10-09,yachanadixit@example.com,+917730509645,Pallavaram,Bihar,South,2021-11-19,Regular
+CUST00869,Victor,Devan,Female,1983-08-29,zkrishnamurthy@example.net,0526138217,Dindigul,Andhra Pradesh,West,2023-09-02,Regular
+CUST00870,Arya,Bandi,Male,2008-06-24,pallaamaira@example.com,03863482434,Adoni,Rajasthan,North,2023-03-02,Regular
+CUST00871,Sudiksha,Bhatti,Male,1982-10-28,nathan66@example.net,4497324194,Agra,Rajasthan,South,2023-11-24,Premium
+CUST00872,Aahana,Sagar,Male,1966-11-14,udant68@example.org,00076760106,Adoni,Mizoram,South,2025-12-26,Premium
+CUST00873,Raghav,Sangha,Female,2008-07-05,vdave@example.com,+919000233798,Tirunelveli,Sikkim,West,2023-09-29,Premium
+CUST00874,Udarsh,Dara,Male,1977-06-17,maanavnagarajan@example.com,+915401001167,Panipat,Andhra Pradesh,South,2022-05-06,Premium
+CUST00875,Dhriti,Vyas,Female,1984-05-30,urishillabera@example.com,+914556654628,Orai,West Bengal,West,2022-06-17,Corporate
+CUST00876,Patrick,Sane,Male,1977-09-07,vedhikabail@example.net,07599987871,Baranagar,Kerala,West,2025-06-23,Corporate
+CUST00877,Akshay,Tailor,Female,1968-12-14,varghesebhavika@example.net,8826665817,Surendranagar Dudhrej,Bihar,North,2024-11-07,Regular
+CUST00878,Vedant,Chaudhary,Female,1973-03-23,gbora@example.net,1747580724,Gurgaon,Manipur,North,2025-08-09,Regular
+CUST00879,Yochana,Modi,Female,1980-12-08,pranavkota@example.net,1673996272,Tadepalligudem,Uttar Pradesh,South,2022-06-26,Premium
+CUST00880,Eesha,Sodhi,Male,1982-07-23,diya46@example.net,9427529037,Bellary,Andhra Pradesh,North,2021-07-23,Premium
+CUST00881,Maya,Keer,Male,1991-10-13,yutikachaudhari@example.org,09020741049,Bhilwara,Maharashtra,South,2025-06-11,Regular
+CUST00882,Bishakha,Upadhyay,Female,1987-03-31,goyalaryan@example.com,6532070415,Bhiwandi,Mizoram,East,2024-08-24,Regular
+CUST00883,Rohan,Prasad,Male,1968-09-30,victor52@example.org,09308192264,Ramagundam,Tripura,East,2023-03-29,Regular
+CUST00884,Sudiksha,Kibe,Male,1969-12-15,devanabha@example.com,01941476756,Gopalpur,Karnataka,East,2025-02-13,Corporate
+CUST00885,Saksham,Atwal,Male,1984-06-27,upkaarnaik@example.com,00143321330,Bilaspur,Goa,West,2025-12-04,Premium
+CUST00886,Vaishnavi,Patel,Male,1971-10-21,sbandi@example.com,+912036906632,Jaunpur,Tamil Nadu,West,2025-08-17,Corporate
+CUST00887,Krish,Thaker,Female,2001-06-26,mgole@example.com,7371606466,Jhansi,Punjab,North,2021-09-04,Corporate
+CUST00888,Benjamin,Mand,Male,2004-11-18,jagratibali@example.org,05846693068,Srikakulam,Andhra Pradesh,East,2023-04-18,Corporate
+CUST00889,Ishanvi,Wagle,Female,1993-12-06,wkrishnan@example.com,9145052765,Motihari,Manipur,South,2024-06-14,Corporate
+CUST00890,Caleb,Rajagopal,Male,1985-12-08,ekta34@example.com,+914624897912,Kharagpur,Tamil Nadu,South,2023-06-11,Regular
+CUST00891,Indali,Korpal,Female,1966-06-12,vamakshisem@example.org,4859465540,Coimbatore,Himachal Pradesh,East,2025-12-30,Premium
+CUST00892,Faris,Parsa,Female,1992-12-01,umang94@example.net,1040871916,Secunderabad,Rajasthan,East,2023-07-06,Premium
+CUST00893,Oliver,Koshy,Female,1980-10-31,fradoviswanathan@example.org,6967311017,Parbhani,Rajasthan,East,2025-10-16,Premium
+CUST00894,Frado,Sami,Female,2005-07-06,darshdeol@example.org,5518824696,Aligarh,Kerala,West,2024-04-18,Premium
+CUST00895,Harinakshi,Sanghvi,Female,2002-06-15,deyvarsha@example.com,04806344222,Morena,Haryana,North,2024-12-13,Regular
+CUST00896,Kritika,Sarma,Male,2006-12-10,ekavir67@example.com,03185277571,Kirari Suleman Nagar,Gujarat,West,2022-08-04,Premium
+CUST00897,Vedika,Chatterjee,Male,1982-07-10,damyantihanda@example.com,07782607419,Kamarhati,Punjab,West,2023-06-09,Premium
+CUST00898,William,Kumer,Female,1988-02-10,yachana80@example.net,00568893065,Jabalpur,Nagaland,East,2023-06-11,Premium
+CUST00899,Alka,Bhavsar,Female,1973-02-21,mastertheodore@example.com,+914920225950,Pondicherry,Himachal Pradesh,North,2024-05-19,Regular
+CUST00900,Omya,Kari,Female,1981-04-23,gopal38@example.net,9296477237,Kota,Assam,West,2023-03-16,Corporate
+CUST00901,Azad,Panchal,Female,1971-12-07,ahluwaliaabha@example.org,7821293385,Bhusawal,Himachal Pradesh,East,2026-05-23,Regular
+CUST00902,Upma,Sachdeva,Male,1985-09-18,vnarayanan@example.org,0509410886,Sonipat,Assam,South,2026-05-11,Regular
+CUST00903,Janani,Sandal,Male,2003-06-09,jaggiridhi@example.com,1978045756,Narasaraopet,Jharkhand,South,2021-12-22,Corporate
+CUST00904,Viraj,Walla,Female,1986-02-04,ykohli@example.org,03407564299,Bhopal,Assam,South,2023-08-30,Regular
+CUST00905,Tamanna,Borra,Female,1970-10-02,garima51@example.com,08945371287,Durgapur,Arunachal Pradesh,East,2024-10-26,Premium
+CUST00906,Lila,Varughese,Male,1983-07-10,chamelijaggi@example.net,09183088872,Shahjahanpur,Maharashtra,South,2026-02-10,Premium
+CUST00907,Advay,Boase,Female,1981-01-17,yohannanubika@example.net,+919917607744,Agra,Gujarat,West,2022-05-29,Regular
+CUST00908,Mohammed,Patla,Male,1974-07-28,xalak61@example.net,+912462984984,Guntur,Goa,East,2024-11-09,Corporate
+CUST00909,Odika,Dhaliwal,Male,1978-08-22,kbal@example.net,02712265910,Narasaraopet,Kerala,West,2022-04-05,Regular
+CUST00910,Mason,Manne,Female,2005-04-10,kala59@example.net,+919764977751,Bhusawal,Punjab,West,2022-05-26,Regular
+CUST00911,Mahika,Parmar,Male,1975-02-15,hvohra@example.com,+919517437761,Gulbarga,Manipur,North,2023-03-29,Regular
+CUST00912,Yadavi,Narang,Male,2005-04-09,kai49@example.net,09774033153,Coimbatore,Manipur,West,2025-11-30,Regular
+CUST00913,Anirudh,Prashad,Male,2006-10-20,qdyal@example.org,+914478564690,Rohtak,Arunachal Pradesh,West,2025-04-17,Corporate
+CUST00914,Omya,Baria,Female,1973-08-26,bhanumati07@example.net,+919030468555,Pali,Assam,South,2023-05-10,Premium
+CUST00915,Yatin,Nair,Female,1969-03-15,lchaudhary@example.org,+919615660271,Mysore,Punjab,East,2021-10-21,Corporate
+CUST00916,Dev,Roy,Female,1989-09-22,eeshamerchant@example.net,+914980035002,Surat,Kerala,North,2025-04-17,Regular
+CUST00917,Advaith,Thakur,Male,1997-07-08,yagneshdani@example.org,1623162221,Alappuzha,Sikkim,West,2025-11-12,Corporate
+CUST00918,Aadi,Hegde,Female,1995-05-17,abhiramvarty@example.org,02882377539,Delhi,Chhattisgarh,North,2021-12-08,Premium
+CUST00919,Mitali,Kalita,Female,1980-12-10,chaudharyqadim@example.net,8849420845,Nanded,Uttar Pradesh,South,2022-10-20,Regular
+CUST00920,Meghana,Kashyap,Female,2002-12-07,amol14@example.net,0485189769,Bangalore,Nagaland,North,2024-05-21,Regular
+CUST00921,Vansha,Yohannan,Male,2008-06-12,chanakya30@example.org,08351243022,Belgaum,Meghalaya,North,2022-01-21,Corporate
+CUST00922,Varenya,Tripathi,Female,1968-12-03,banjeetpuri@example.net,+913764440578,Mau,Himachal Pradesh,East,2024-06-01,Premium
+CUST00923,Anvi,Wadhwa,Male,1994-12-04,bhatekiya@example.org,+919664535305,Bhiwandi,Bihar,East,2023-01-26,Regular
+CUST00924,Krish,Bains,Male,1967-09-04,kamdarraagini@example.org,7464492548,Ratlam,Tripura,South,2022-08-31,Regular
+CUST00925,Xiti,Nigam,Male,2002-01-31,mukhopadhyaygeorge@example.net,09436334105,Buxar,Karnataka,South,2025-06-14,Corporate
+CUST00926,Qadim,Palan,Female,1978-07-19,mwagle@example.org,+915678537580,Avadi,Arunachal Pradesh,South,2021-08-24,Regular
+CUST00927,Jack,Puri,Female,1999-04-01,mishrasudiksha@example.com,03607057189,Vasai-Virar,Bihar,North,2024-10-18,Regular
+CUST00928,Falguni,Dhawan,Male,1992-09-28,gardeijaya@example.net,0124385227,Bhilai,Mizoram,East,2026-07-04,Corporate
+CUST00929,Daniel,Venkataraman,Male,1991-12-27,kaurwridesh@example.com,02870716723,Maheshtala,Andhra Pradesh,North,2023-09-04,Corporate
+CUST00930,Abdul,Gandhi,Female,1985-12-12,bhanumati85@example.org,03373831591,Dharmavaram,Punjab,East,2022-10-31,Regular
+CUST00931,Charles,Prabhu,Female,1972-04-19,edhawan@example.net,+915582127779,Bulandshahr,Bihar,North,2024-04-29,Premium
+CUST00932,Unni,Borra,Male,2000-08-08,dadaekapad@example.net,+913759483712,Sasaram,Mizoram,North,2024-01-18,Premium
+CUST00933,Veda,Sehgal,Female,1994-02-22,nimrat35@example.com,05143072733,Surat,Maharashtra,North,2024-08-14,Corporate
+CUST00934,Nicholas,Johal,Female,1970-09-26,ekantika89@example.org,07483274430,Hyderabad,Mizoram,West,2024-07-06,Regular
+CUST00935,Lila,Sani,Female,1970-07-12,balansneha@example.com,02565631921,Katni,Mizoram,South,2025-10-17,Premium
+CUST00936,Rajeshri,Dutta,Female,1974-11-02,rkari@example.com,1476347812,Vadodara,Meghalaya,South,2023-10-07,Premium
+CUST00937,Hemani,Srinivasan,Male,1996-09-29,luthrachameli@example.net,2765056430,Bahraich,Nagaland,South,2025-06-20,Premium
+CUST00938,Warinder,Hora,Female,1984-12-21,xalaklalla@example.org,+912249381495,Kanpur,Punjab,South,2021-09-04,Regular
+CUST00939,Qarin,Narasimhan,Female,2007-02-16,fsehgal@example.com,+914697701163,Hubli–Dharwad,Madhya Pradesh,North,2023-05-09,Premium
+CUST00940,Janya,Singhal,Male,1975-03-12,contractordayamai@example.net,+918572237771,Indore,Telangana,West,2025-07-21,Premium
+CUST00941,Divya,Pathak,Female,1985-07-27,brinda94@example.org,5086647775,Phusro,West Bengal,North,2023-09-29,Premium
+CUST00942,Yamini,Krishna,Male,1996-02-24,lmadan@example.com,00756195207,Bareilly,Haryana,East,2022-06-22,Corporate
+CUST00943,Saksham,Chana,Female,1988-03-01,iyerwarda@example.net,6271129864,Pallavaram,Kerala,North,2021-12-03,Premium
+CUST00944,Raghav,Singh,Male,1967-06-06,xkota@example.com,+917183133872,Raipur,Himachal Pradesh,West,2021-08-31,Regular
+CUST00945,Gauri,Pradhan,Male,1987-03-18,sbuch@example.net,02604415552,Satara,Maharashtra,East,2022-12-01,Premium
+CUST00946,Aarnav,Sharma,Female,1972-06-26,narainwidisha@example.org,+912359808903,Dehri,Tripura,West,2025-11-07,Regular
+CUST00947,Ethan,Menon,Male,1997-06-20,acharyaalexander@example.com,+916587685751,Ballia,Telangana,East,2025-05-14,Premium
+CUST00948,Deepa,Mallick,Female,2001-12-03,cheemalakshmi@example.com,4550843729,Nashik,Nagaland,West,2024-10-17,Premium
+CUST00949,Brijesh,Murty,Female,1999-03-10,amolkapur@example.org,+913932149643,Yamunanagar,Maharashtra,North,2023-02-06,Corporate
+CUST00950,Onkar,Mangal,Female,2000-07-02,ncheema@example.net,+918375196353,Rewa,Uttarakhand,East,2023-07-14,Regular
+CUST00951,Maanav,Lala,Male,1996-07-20,senridhi@example.com,+910302072359,Bhopal,Nagaland,North,2022-10-13,Corporate
+CUST00952,Tristan,Ramakrishnan,Female,2002-09-02,abhimanyu90@example.org,8133549257,Jehanabad,Karnataka,North,2022-10-05,Corporate
+CUST00953,Harsh,Subramanian,Male,1986-02-08,ishani24@example.org,03226995385,Malda,Assam,South,2022-08-18,Premium
+CUST00954,Arin,Hayre,Male,1971-07-30,dattaurishilla@example.com,6037668097,Anantapur,Kerala,South,2024-11-29,Corporate
+CUST00955,Ira,Ravi,Male,1966-10-13,zbhargava@example.com,4845213813,Buxar,Rajasthan,South,2026-05-16,Corporate
+CUST00956,Ranveer,Misra,Male,1979-04-14,mugdha13@example.com,3912487279,Gurgaon,Chhattisgarh,South,2023-06-30,Premium
+CUST00957,Chatura,Parekh,Female,1989-09-12,paninidivan@example.org,6086549771,Shahjahanpur,Himachal Pradesh,South,2023-02-06,Corporate
+CUST00958,Indira,Ram,Male,1997-08-09,william11@example.org,+918679912024,Chinsurah,Gujarat,West,2026-02-01,Corporate
+CUST00959,Ati,Kaur,Female,1969-06-29,kallasathvik@example.org,0044645506,Kirari Suleman Nagar,West Bengal,North,2021-12-26,Premium
+CUST00960,Fiyaz,Goda,Female,2003-08-31,bthakkar@example.org,+916884937453,Kharagpur,Telangana,South,2021-09-27,Regular
+CUST00961,Upasna,Toor,Female,1991-01-22,suhani33@example.net,08640457576,Moradabad,Andhra Pradesh,South,2024-07-24,Corporate
+CUST00962,Vanya,Menon,Male,1994-07-26,leelamanda@example.net,1652115576,Darbhanga,Nagaland,South,2025-12-01,Regular
+CUST00963,Daksh,Bahri,Male,1995-03-07,raghavanyatan@example.net,01009053012,Hyderabad,Bihar,West,2025-08-10,Regular
+CUST00964,Hemani,Sawhney,Female,1997-05-10,wishiwable@example.net,+917354288614,Ajmer,Jharkhand,South,2021-08-05,Premium
+CUST00965,Darsh,Loyal,Female,2004-12-31,qabilmallick@example.org,+913815355739,Junagadh,Kerala,West,2024-08-01,Regular
+CUST00966,Vyanjana,Swaminathan,Female,2000-08-23,nachiketbora@example.net,04853711328,Panipat,Punjab,South,2022-04-29,Corporate
+CUST00967,Siddharth,Kant,Male,2001-02-20,indrajit60@example.com,00455521275,Adoni,Tamil Nadu,North,2024-10-14,Premium
+CUST00968,Yashodhara,Kalla,Female,1974-11-26,jonathan93@example.net,02334821485,Dewas,Jharkhand,East,2022-04-13,Premium
+CUST00969,Hemal,Solanki,Female,1970-11-03,christophermahal@example.com,06022885080,Fatehpur,Jharkhand,South,2022-04-18,Regular
+CUST00970,Charan,Chowdhury,Male,1966-05-15,sahotaturvi@example.org,+917718281952,Nandyal,West Bengal,West,2024-09-07,Corporate
+CUST00971,Amrita,Ravi,Female,1985-04-02,padmanabhananita@example.com,5656848376,Burhanpur,Sikkim,West,2023-03-11,Premium
+CUST00972,Amol,Chanda,Male,2003-10-24,maneyutika@example.com,7387262119,Pudukkottai,Goa,South,2022-03-20,Premium
+CUST00973,Nilima,Kadakia,Female,1982-01-02,utkarsh96@example.org,07074366557,Buxar,Nagaland,West,2023-02-26,Regular
+CUST00974,Eiravati,Ravi,Female,1982-08-03,csarna@example.net,+916057678282,Gorakhpur,Jharkhand,West,2025-02-11,Premium
+CUST00975,Jatin,Varghese,Male,1974-06-10,dhritibose@example.org,09025370589,Nagpur,Mizoram,North,2022-01-04,Regular
+CUST00976,Arya,Gandhi,Male,1981-05-01,sjain@example.com,06299731860,Panvel,Chhattisgarh,South,2022-01-29,Corporate
+CUST00977,Rushil,Pau,Female,2004-01-22,baghyawatiyogi@example.org,+912925432182,Singrauli,Tamil Nadu,East,2023-10-07,Corporate
+CUST00978,Aarnav,Sengupta,Female,2003-05-28,fgandhi@example.com,00761508256,Sagar,Madhya Pradesh,East,2024-10-27,Corporate
+CUST00979,Kabir,Mittal,Female,1986-07-30,varsha67@example.org,3687484375,Kolhapur,Haryana,West,2022-05-12,Premium
+CUST00980,Sarthak,Shah,Male,1979-11-30,virkudant@example.com,+918861732173,Giridih,Tamil Nadu,South,2023-07-25,Premium
+CUST00981,Warhi,Pandya,Female,1993-09-15,darshkhosla@example.org,8306682198,Bhusawal,Tamil Nadu,East,2023-05-10,Premium
+CUST00982,Anmol,Arya,Female,1970-06-12,andrew54@example.org,+919865840975,Farrukhabad,Kerala,North,2026-04-23,Regular
+CUST00983,Kritika,Rege,Female,1968-02-14,rpalan@example.com,3542362873,Nagpur,Mizoram,East,2024-08-08,Premium
+CUST00984,Sanya,Lal,Male,1974-09-20,waliurvi@example.net,9954813374,Sirsa,West Bengal,West,2025-11-16,Premium
+CUST00985,Advik,Savant,Female,1975-10-17,seshadridevika@example.net,1438009778,Uluberia,Telangana,North,2022-05-20,Premium
+CUST00986,Caleb,Rana,Female,2001-07-31,maxnaidu@example.com,+915090281753,Shahjahanpur,Kerala,North,2023-10-26,Corporate
+CUST00987,Rudra,Korpal,Male,1987-06-09,jack59@example.com,8431038548,Vijayanagaram,Haryana,East,2023-05-12,Premium
+CUST00988,Akshay,Prashad,Male,1996-05-13,emittal@example.org,08270279673,Kollam,Kerala,West,2022-05-20,Corporate
+CUST00989,Ira,Kala,Female,1979-03-08,hnadkarni@example.com,+917797393145,Shimla,Gujarat,North,2023-06-28,Corporate
+CUST00990,Adya,Konda,Female,2002-05-14,ysen@example.com,03073001467,Hubli–Dharwad,Tamil Nadu,North,2025-01-15,Premium
+CUST00991,Aryan,Bhatti,Female,1982-04-06,gbarman@example.org,5904681060,Gandhidham,Nagaland,North,2022-12-14,Premium
+CUST00992,Zayan,Sharma,Male,1990-06-18,vasana74@example.org,08430600935,Kochi,Manipur,North,2023-10-16,Premium
+CUST00993,Raksha,Sharma,Male,1989-09-24,thamanjasmit@example.org,07389145844,Panvel,Meghalaya,North,2022-11-28,Premium
+CUST00994,Kamala,Saini,Male,1969-08-30,chakrika84@example.net,05278375278,Kolkata,Maharashtra,South,2024-01-29,Premium
+CUST00995,Jhalak,Sachdev,Female,1987-11-06,anya18@example.net,2045725516,Jalgaon,Gujarat,West,2023-10-27,Corporate
+CUST00996,Naksh,Swamy,Male,1968-04-12,jeremiahbora@example.com,08709635652,Munger,Karnataka,South,2022-04-03,Regular
+CUST00997,Girik,Merchant,Male,2000-04-24,pratyush43@example.net,+911098449794,Ulhasnagar,Jharkhand,West,2023-09-18,Premium
+CUST00998,Ranveer,Ranganathan,Male,1984-09-20,sanevyanjana@example.net,6747950713,Saharsa,Madhya Pradesh,East,2023-12-31,Corporate
+CUST00999,Robert,Nagy,Female,1997-05-10,theodore72@example.org,01186497578,Rajkot,Himachal Pradesh,East,2025-04-29,Premium
+CUST01000,Daniel,Bhakta,Male,1990-09-06,jagvi22@example.com,5324342640,Morena,Andhra Pradesh,South,2025-05-22,Premium
