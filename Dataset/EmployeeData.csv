@@ -1,0 +1,101 @@
+EmployeeId,FirstName,LastName,Department,Designation,StoreId,HireDate,Salary
+EMP0001,Radhika,Dasgupta,Finance,Coordinator,1,2023-10-15,99757
+EMP0002,Chandani,Sachdeva,IT,Analyst,11,2024-10-06,94415
+EMP0003,Chaitanya,Purohit,Marketing,Manager,17,2026-02-01,23801
+EMP0004,Odika,Maharaj,Marketing,Analyst,11,2025-07-19,74094
+EMP0005,Triveni,Balasubramanian,IT,Manager,19,2025-11-15,85967
+EMP0006,Aachal,Karpe,Human Resources,Manager,14,2023-08-03,60095
+EMP0007,Idika,Kari,Sales,Manager,15,2026-05-15,57153
+EMP0008,Lohit,Barad,IT,Analyst,7,2024-06-29,37530
+EMP0009,Rudra,Pai,IT,Coordinator,17,2023-12-29,37786
+EMP0010,Upma,Sanghvi,Human Resources,Coordinator,1,2021-07-26,69097
+EMP0011,Darsh,Sibal,IT,Specialist,17,2023-11-30,96234
+EMP0012,Benjamin,Tandon,Human Resources,Executive,17,2022-08-26,47661
+EMP0013,Neelima,Sabharwal,Marketing,Coordinator,11,2025-04-19,69170
+EMP0014,Tanvi,Sidhu,Marketing,Executive,19,2023-03-20,21940
+EMP0015,Aahana,Minhas,Sales,Executive,11,2025-08-19,94650
+EMP0016,Rushil,Mani,Operations,Specialist,6,2023-11-03,84282
+EMP0017,Henry,Sibal,Marketing,Manager,1,2023-03-14,68277
+EMP0018,Reyansh,Nori,Operations,Specialist,7,2023-07-06,94667
+EMP0019,Yoshita,Goel,Finance,Specialist,6,2022-01-22,22411
+EMP0020,Ishanvi,Pathak,IT,Executive,12,2023-10-09,92226
+EMP0021,Hitesh,Mittal,Human Resources,Analyst,14,2024-07-13,99551
+EMP0022,Madhavi,Tailor,Finance,Analyst,18,2025-06-01,36397
+EMP0023,Ekansh,Suresh,Human Resources,Manager,8,2022-07-07,78423
+EMP0024,Agastya,Karan,Sales,Analyst,14,2023-03-24,81694
+EMP0025,Mugdha,Shan,Marketing,Manager,12,2023-08-16,78752
+EMP0026,Mitali,Ghose,Human Resources,Executive,17,2024-03-22,98619
+EMP0027,Frederick,Sunder,Finance,Analyst,11,2021-07-30,96333
+EMP0028,Indira,Baral,Human Resources,Coordinator,4,2024-01-31,79330
+EMP0029,Prisha,Ratti,Marketing,Analyst,16,2022-01-30,37914
+EMP0030,Chaaya,Taneja,IT,Executive,20,2022-12-07,41644
+EMP0031,Nathaniel,Manne,Human Resources,Analyst,13,2024-07-03,48188
+EMP0032,Wazir,Loyal,Human Resources,Analyst,18,2023-06-30,55223
+EMP0033,Ekansh,Dayal,Sales,Specialist,19,2023-09-26,65821
+EMP0034,Saksham,Lalla,IT,Manager,20,2021-11-04,71627
+EMP0035,Raksha,Pall,Human Resources,Specialist,12,2022-10-02,60320
+EMP0036,Meghana,Raju,Finance,Coordinator,5,2023-04-29,80162
+EMP0037,Oni,Mani,Marketing,Specialist,16,2025-03-30,65717
+EMP0038,Jonathan,Bhardwaj,Human Resources,Manager,20,2024-11-24,51199
+EMP0039,Veda,Nath,Operations,Specialist,2,2023-12-15,49411
+EMP0040,Tristan,Arya,Operations,Coordinator,20,2022-03-05,39443
+EMP0041,Aradhana,Solanki,IT,Coordinator,20,2023-07-11,91561
+EMP0042,Upma,Ray,Sales,Specialist,6,2024-12-26,91867
+EMP0043,Nachiket,Kuruvilla,Finance,Coordinator,3,2026-06-23,28735
+EMP0044,Tristan,Anand,Marketing,Analyst,14,2021-09-03,37778
+EMP0045,Anirudh,Kunda,Human Resources,Specialist,7,2026-06-27,78913
+EMP0046,Kamya,Yohannan,Operations,Executive,11,2024-11-25,83132
+EMP0047,Radhika,Doshi,Operations,Manager,2,2024-04-04,77922
+EMP0048,Jeet,Dhar,Finance,Specialist,14,2026-04-06,95476
+EMP0049,Mahika,Bhat,Operations,Executive,9,2024-07-20,71824
+EMP0050,Jagdish,Dewan,Operations,Executive,9,2024-12-11,47591
+EMP0051,Yagnesh,Oza,Marketing,Coordinator,10,2022-12-19,28120
+EMP0052,Barkha,Boase,Human Resources,Manager,20,2025-01-13,41211
+EMP0053,Falak,Konda,Operations,Manager,4,2025-07-25,35414
+EMP0054,Ekta,Bhandari,Marketing,Specialist,4,2026-04-22,64648
+EMP0055,Aachal,Bhakta,Operations,Executive,9,2023-06-25,80630
+EMP0056,Gaurika,Dhawan,Operations,Manager,14,2022-03-09,47606
+EMP0057,Zehaan,Mitter,IT,Executive,13,2025-03-08,43111
+EMP0058,Om,Swamy,Sales,Specialist,19,2024-12-29,78109
+EMP0059,Balendra,Ravi,Human Resources,Executive,15,2024-10-28,74280
+EMP0060,Yashoda,Ben,Sales,Coordinator,19,2022-02-01,79897
+EMP0061,Chaitanya,Puri,Finance,Coordinator,8,2022-09-15,24653
+EMP0062,Vrishti,Shankar,IT,Specialist,9,2023-03-30,76155
+EMP0063,Sai,Natarajan,Human Resources,Executive,19,2022-10-06,51119
+EMP0064,Vihaan,Prabhakar,Finance,Specialist,7,2025-10-24,46712
+EMP0065,Urvashi,Rajagopalan,Operations,Manager,4,2024-08-21,72483
+EMP0066,Mahika,Gupta,Human Resources,Specialist,15,2023-03-31,38197
+EMP0067,Lakshmi,Kaur,IT,Specialist,18,2025-07-14,59560
+EMP0068,Anjali,Garg,IT,Analyst,14,2025-10-24,57229
+EMP0069,Krish,Bassi,Finance,Specialist,9,2022-06-30,62710
+EMP0070,Avni,Kala,IT,Specialist,1,2025-05-19,89626
+EMP0071,Krish,Rao,Human Resources,Coordinator,3,2022-11-22,91253
+EMP0072,Daksha,Sodhi,Sales,Specialist,15,2024-06-20,27241
+EMP0073,Tanish,Minhas,IT,Coordinator,13,2023-07-18,48240
+EMP0074,Mitesh,Kaul,Operations,Specialist,19,2021-10-06,58472
+EMP0075,Theodore,Barad,Finance,Manager,3,2022-08-10,77308
+EMP0076,Leela,Sarraf,Marketing,Analyst,8,2025-02-02,45303
+EMP0077,Jasmit,Goswami,Finance,Specialist,6,2024-02-14,26016
+EMP0078,Mohammed,Lata,Human Resources,Manager,6,2022-03-09,87406
+EMP0079,Siya,Pathak,Sales,Manager,12,2024-02-08,46757
+EMP0080,Benjamin,Hayre,Sales,Analyst,10,2024-02-29,43653
+EMP0081,Hritik,Bhargava,IT,Manager,6,2026-07-02,98178
+EMP0082,Osha,Lad,Sales,Executive,8,2023-04-17,46662
+EMP0083,Tanish,Arora,Operations,Coordinator,18,2023-05-31,55255
+EMP0084,Ijaya,Ramakrishnan,Sales,Specialist,6,2023-05-04,30496
+EMP0085,Tanish,Gopal,Marketing,Coordinator,3,2025-12-12,98833
+EMP0086,Gaurav,Das,Operations,Specialist,19,2024-04-19,36808
+EMP0087,Tanish,Dhar,Operations,Specialist,11,2025-03-20,94772
+EMP0088,Oviya,Ramesh,Sales,Coordinator,5,2026-06-10,25644
+EMP0089,Inaya,Ghosh,Finance,Manager,9,2022-06-14,25898
+EMP0090,Siddharth,Pandit,IT,Executive,1,2025-09-03,36292
+EMP0091,Ikbal,Mital,Marketing,Analyst,8,2023-12-02,79348
+EMP0092,Chandani,Rama,IT,Executive,16,2022-05-07,25803
+EMP0093,Harita,Khatri,IT,Specialist,3,2023-06-27,67966
+EMP0094,Jatin,Bhasin,Human Resources,Coordinator,3,2021-08-07,70963
+EMP0095,Nirja,Sehgal,IT,Specialist,13,2024-06-16,88618
+EMP0096,Maanas,Balan,Human Resources,Analyst,4,2026-03-17,52757
+EMP0097,Gavin,Hayre,Marketing,Manager,14,2026-05-21,69597
+EMP0098,Yashawini,Dhillon,Finance,Executive,19,2022-11-22,54198
+EMP0099,Varsha,Sachar,IT,Specialist,8,2022-03-11,41357
+EMP0100,Samesh,Gola,Operations,Specialist,15,2022-12-08,44582

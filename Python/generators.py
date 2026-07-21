@@ -129,4 +129,95 @@ def generate_products_data():
     return df
 
 
+def generate_stores_data():
 
+    StoreData=[]
+
+    Cities=[
+        ('Hyderabad','Telangana','South'),
+        ('Bangalore','Karnataka','South'),
+        ('Chennai','Tamil Nadu','South'),
+        ('Mumbai','Maharashtra','West'),
+        ('Pune','Maharashtra','West'),
+        ('Ahmedabad','Gujarat','West'),
+        ('Jaipur','Rajasthan','West'),
+        ('Delhi','Delhi NCR','North'),
+        ('Gurgaon','Haryana','North'),
+        ('Noida','Uttar Pradesh','North'),
+        ('Lucknow','Uttar Pradesh','North'),
+        ('Kolkata','West Bengal','East'),
+        ('Bhubaneswar','Odisha','East'),
+        ('Patna','Bihar','East')
+        ]
+    
+    Store_types=['Flagship','Mall','Outlet','Express']
+
+
+    for i in range(NUM_STORES):
+
+        City, State, Region = random.choice(Cities)
+
+        StoreData.append({
+
+            'StoreId': f'STORE{i+1:03}',
+
+            'StoreName': f"RetailHub {City} {i+1}",
+
+            'City': City,
+
+            'State': State,
+
+            'Region': Region,
+
+            'OpeningDate': fake.date_between(start_date='-5y', end_date='today'),
+
+            'StoreType': random.choice(Store_types)
+        })
+
+    
+    df = pd.DataFrame(StoreData)
+
+    df.to_csv('Dataset/StoreData.csv', index=False)
+
+    print("Store Data Generated and Saved to StoreData.csv")
+
+    return df
+
+
+def generate_employees_data():
+
+    Departments=['Sales','Marketing','Finance','Human Resources','IT','Operations']
+
+    Designations=['Manager','Executive','Analyst','Coordinator','Specialist']
+
+    EmployeeData=[]
+
+    for i in range(NUM_EMPLOYEES):
+
+        EmployeeData.append({
+
+            'EmployeeId': f'EMP{i+1:04}',
+
+            'FirstName': fake.first_name(),
+
+            'LastName': fake.last_name(),
+
+            'Department': random.choice(Departments),
+
+            'Designation': random.choice(Designations),
+
+            'StoreId':random.randint(1,NUM_STORES),
+
+            'HireDate': fake.date_between(start_date='-5y', end_date='-1m'),
+
+            'Salary': round(random.randint(20000, 100000),2),
+        })
+
+
+    df = pd.DataFrame(EmployeeData)
+
+    df.to_csv('Dataset/EmployeeData.csv', index=False)
+
+    print("Employee Data Generated and Saved to EmployeeData.csv")
+
+    return df
