@@ -11,3 +11,10 @@ generate_stores_data()
 generate_employees_data()
 
 
+generate_suppliers_data()
+
+generate_warehouses_data()
+
+generate_inventory_data()
+
+

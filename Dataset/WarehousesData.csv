@@ -1,0 +1,6 @@
+WarehouseId,WarehouseCode,WarehouseName,City,State,Region,Capacity
+WH001,WH0001,RetailHubWarehouse 1,Hyderabad,Telangana,South,8884
+WH002,WH0002,RetailHubWarehouse 2,Bangalore,Karnataka,South,6763
+WH003,WH0003,RetailHubWarehouse 3,Mumbai,Maharashtra,West,5462
+WH004,WH0004,RetailHubWarehouse 4,Kolkata,West Bengal,East,9671
+WH005,WH0005,RetailHubWarehouse 5,Delhi,Delhi NCR,North,6155

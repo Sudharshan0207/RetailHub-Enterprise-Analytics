@@ -1,21 +1,21 @@
 StoreId,StoreName,City,State,Region,OpeningDate,StoreType
-STORE001,RetailHub Mumbai 1,Mumbai,Maharashtra,West,2025-02-21,Mall
-STORE002,RetailHub Gurgaon 2,Gurgaon,Haryana,North,2021-10-23,Express
-STORE003,RetailHub Pune 3,Pune,Maharashtra,West,2024-01-26,Express
-STORE004,RetailHub Noida 4,Noida,Uttar Pradesh,North,2023-07-08,Flagship
-STORE005,RetailHub Bhubaneswar 5,Bhubaneswar,Odisha,East,2023-07-07,Outlet
-STORE006,RetailHub Noida 6,Noida,Uttar Pradesh,North,2023-04-18,Mall
-STORE007,RetailHub Mumbai 7,Mumbai,Maharashtra,West,2024-11-28,Mall
-STORE008,RetailHub Jaipur 8,Jaipur,Rajasthan,West,2026-06-24,Express
-STORE009,RetailHub Kolkata 9,Kolkata,West Bengal,East,2022-11-20,Mall
-STORE010,RetailHub Bangalore 10,Bangalore,Karnataka,South,2025-10-01,Mall
-STORE011,RetailHub Mumbai 11,Mumbai,Maharashtra,West,2022-05-15,Outlet
-STORE012,RetailHub Chennai 12,Chennai,Tamil Nadu,South,2021-08-11,Outlet
-STORE013,RetailHub Mumbai 13,Mumbai,Maharashtra,West,2024-07-20,Mall
-STORE014,RetailHub Hyderabad 14,Hyderabad,Telangana,South,2022-02-27,Flagship
-STORE015,RetailHub Hyderabad 15,Hyderabad,Telangana,South,2025-07-03,Outlet
-STORE016,RetailHub Pune 16,Pune,Maharashtra,West,2023-03-10,Flagship
-STORE017,RetailHub Chennai 17,Chennai,Tamil Nadu,South,2022-09-21,Flagship
-STORE018,RetailHub Kolkata 18,Kolkata,West Bengal,East,2025-10-09,Express
-STORE019,RetailHub Chennai 19,Chennai,Tamil Nadu,South,2026-04-19,Mall
-STORE020,RetailHub Patna 20,Patna,Bihar,East,2023-07-18,Express
+STORE001,RetailHub Patna 1,Patna,Bihar,East,2023-03-16,Mall
+STORE002,RetailHub Hyderabad 2,Hyderabad,Telangana,South,2025-12-09,Express
+STORE003,RetailHub Mumbai 3,Mumbai,Maharashtra,West,2022-06-13,Mall
+STORE004,RetailHub Patna 4,Patna,Bihar,East,2025-03-30,Express
+STORE005,RetailHub Chennai 5,Chennai,Tamil Nadu,South,2022-10-27,Mall
+STORE006,RetailHub Chennai 6,Chennai,Tamil Nadu,South,2022-10-25,Mall
+STORE007,RetailHub Noida 7,Noida,Uttar Pradesh,North,2021-10-02,Express
+STORE008,RetailHub Hyderabad 8,Hyderabad,Telangana,South,2022-01-01,Express
+STORE009,RetailHub Lucknow 9,Lucknow,Uttar Pradesh,North,2025-01-03,Mall
+STORE010,RetailHub Jaipur 10,Jaipur,Rajasthan,West,2023-10-29,Outlet
+STORE011,RetailHub Chennai 11,Chennai,Tamil Nadu,South,2025-03-25,Outlet
+STORE012,RetailHub Jaipur 12,Jaipur,Rajasthan,West,2023-07-11,Mall
+STORE013,RetailHub Bhubaneswar 13,Bhubaneswar,Odisha,East,2025-05-31,Outlet
+STORE014,RetailHub Delhi 14,Delhi,Delhi NCR,North,2026-03-04,Express
+STORE015,RetailHub Bhubaneswar 15,Bhubaneswar,Odisha,East,2024-06-03,Mall
+STORE016,RetailHub Ahmedabad 16,Ahmedabad,Gujarat,West,2024-07-09,Mall
+STORE017,RetailHub Pune 17,Pune,Maharashtra,West,2025-02-10,Outlet
+STORE018,RetailHub Chennai 18,Chennai,Tamil Nadu,South,2025-07-30,Flagship
+STORE019,RetailHub Lucknow 19,Lucknow,Uttar Pradesh,North,2024-09-04,Mall
+STORE020,RetailHub Noida 20,Noida,Uttar Pradesh,North,2022-08-11,Express

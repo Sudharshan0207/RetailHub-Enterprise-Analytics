@@ -216,8 +216,128 @@ def generate_employees_data():
 
     df = pd.DataFrame(EmployeeData)
 
-    df.to_csv('Dataset/EmployeeData.csv', index=False)
+    df.to_csv('Dataset/EmployeesData.csv', index=False)
 
     print("Employee Data Generated and Saved to EmployeeData.csv")
+
+    return df
+
+
+def generate_suppliers_data():
+
+    SuppliersData=[]
+
+    for i in range(NUM_SUPPLIERS):
+
+        SuppliersData.append({
+
+            'SupplierId': f'SUPP{i+1:03}',
+
+            'SupplierCode': f'SUPP{i+1:04}',
+
+            'SupplierName': fake.company(),
+
+            'ContactName': fake.name(),
+
+            'Email': fake.company_email(),
+
+            'Phone': fake.phone_number(),
+
+            'City': fake.city(),
+
+            'State': fake.state(),
+
+            'Country': 'India',
+
+            'Rating': round(random.uniform(1.0, 5.0), 1),
+            
+        })
+
+
+    df = pd.DataFrame(SuppliersData)
+
+    df.to_csv('Dataset/SuppliersData.csv', index=False)
+
+    print("Suppliers Data Generated and Saved to SuppliersData.csv")
+
+    return df
+
+
+def generate_warehouses_data():
+
+    Cities=[
+        ('Hyderabad','Telangana','South'),
+        ('Bangalore','Karnataka','South'), 
+        ('Mumbai','Maharashtra','West'),
+        ('Kolkata','West Bengal','East'),
+        ('Delhi','Delhi NCR','North')
+
+    ]
+
+    WarehousesData=[]
+
+    for i in range(NUM_WAREHOUSES):
+
+        City, State, Region = Cities[i]
+
+        WarehousesData.append({
+
+            'WarehouseId': f'WH{i+1:03}',
+
+            'WarehouseCode': f'WH{i+1:04}',
+
+            'WarehouseName': f"RetailHubWarehouse {i+1}",
+
+            'City': City,
+
+            'State': State,
+
+            'Region': Region,
+
+            'Capacity': random.randint(1000, 10000)\
+        })
+
+
+    df = pd.DataFrame(WarehousesData)
+
+    df.to_csv('Dataset/WarehousesData.csv', index=False)
+
+    print("Warehouses Data Generated and Saved to WarehousesData.csv")
+
+    return df
+
+
+def generate_inventory_data():
+
+    InventoryData=[]
+
+    Inventory_Id=1
+
+    for ProductId  in range(1, NUM_PRODUCTS + 1):
+
+        for WarehouseId in range(1, NUM_WAREHOUSES + 1):
+
+            Stock_Quantity = random.randint(10, 1000)
+
+            InventoryData.append({
+
+                'ProductId': ProductId,
+
+                'WarehouseId': WarehouseId,
+
+                'StockQuantity': Stock_Quantity,
+
+                'ReorderLevel': random.randint(5, 50),
+
+                'LastUpdated': fake.date_between(start_date='-30d', end_date='today')
+            })
+
+            Inventory_Id += 1
+
+    df = pd.DataFrame(InventoryData)
+
+    df.to_csv('Dataset/InventoryData.csv', index=False)
+
+    print("Inventory Data Generated and Saved to InventoryData.csv")
 
     return df
